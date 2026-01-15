@@ -1,0 +1,26 @@
+
+cd path/to/your/quarto-blog
+git init
+
+git config --global user.email "ryand25@tcd.ie"
+git config --global user.name "Des Ryan"
+
+git add .
+git commit -m "Initial commit"
+# git branch -M main
+git remote add origin https://github.com/A2dez/casey_blog
+
+git push -u origin main
+https://github.com/
+
+
+01-2213055
+01-2214141
+
+Claudine from In patients  --> 
+St Charles Ward, dealing with elective surgeries
+Looking to expedite the date -- will email secretaries, and say that it's on the advice of Dr Paul Ryan
+
+
+  
+  
