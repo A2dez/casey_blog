@@ -1,32 +1,32 @@
 ---
-title: "Beautiful Ireland"
+title: "Beautiful Ireland: illustrated in picture, song and story"
 ---
 
-### Crowdfunding the Republic
+![*The young priest spoke in 1919 to the Gaelic Society of New York about "The Irish Brigade". In other words, he spoke to The Fenians about The IRA.*](images/clipboard-3119683237.png){alt="The young priest spoke in 1919 to the Gaelic Society of New York about \"The Irish Brigade\"" fig-align="center" width="602"}
 
-logs notes <https://www.notion.so/2025-11-24-Monday-2b54cfb361648055870ad16f0c56f5d5>
+We saw in the last post that The Very Reverand Monsignor Richard J Casey amassed a sizeable collection of slides from talks he gave during his time in New York (1915-20) and then afterwards in Ireland during the early years of The Fres State. This time I want to talk about the Revolutionary nature of these talks. Their subject matter, the venues and the newspaper reports, mostly based on newspaper clippings that Casey kept, but also based on more general research into the topic of funding drives in America.
 
-2025-11-24
+**It is not clear how many talks Casey gave but we have newspaper clippings of several lectures between 1917 and 1919. I can't yet work out exactly when the talks became heavily politicised, but in 1916 there were reports of him giving 'Lenten Sermons' about the religiosity of Irish faithful back home**
 
-![A flyer for Casey's presentation on Beautiful Ireland - 'illustrated in picture, song and story'.](images/IMG_5753_beautiful_ireland_flyer.PNG)
-
-Among the revolutionary fervour, there are slides of Wolfe Tone who led the failed rebellion of 1798, Parnell's body lying in state, and the bronze statue of [Fr William Casey](https://www.dib.ie/biography/casey-william-a1544) in Abbeyfeale, Co. Limerick. This Casey – who is no relation to our subject – must have been quite the role model for our Richard. He was a Gaelgeoir, musician, GAA man, and temperance activist, which I suspect Fr Richard was too. Fr William was most active in the Land League, for which he gained huge local support, and so was Fr Richard's uncle – another Fr Richard J Casey – to whom I shall one day return. There are no slides related to the Fenian Uprising of 1867, even though its veteran John Devoy had become the leading Republican in New York by the time of Casey's lectures. This may be because the Fenians tried to keep a low profile and used codenames for their gatherings.
-
-![The young priest spoke in 1919 to the Gaelic Society of New York about "The Irish Brigade"](images/clipboard-3119683237.png){fig-align="center" width="602"}
-
-One such name was The Gaelic Society, and by January 1919, Casey was presenting at one of their céilidhthe, a combination that shows how revolutionary fervour could be drummed up amidst a cultural event, and a reminder that the Irish cultural revolution really holds primacy over the political revolution.
-
-It is not clear how many talks Casey gave but we have newspaper clippings of several lectures between 1917 and 1919. I can't yet work out exactly when the talks became heavily politicised, but in 1916 there were reports of him giving 'Lenten Sermons' about the religiosity of Irish faithful back home. Yet by 1917, *The Gaelic American* reports that "
+It is not clear exactly when Casey began giving presentations with slides, but there is one clipping from 1916 which reports him giving 'Lenten Sermons' about the religiosity of Irish faithful back home. By 1917, he is talking about life in Beautiful Ireland, as we know from his slides. But his talk has also been politicised a lot, and *The Gaelic American* reports that "
 
 ```         
 "[Casey] took occasion at every appropriate time, to demonstrate alleged pernicious results of English misrule in the country."
 ```
 
-Clearly, the audience were on the same page as:
+Clearly, the audience were on the same page as the reports that:
 
 ```         
 The photographs of Easter Week, 1916, were wildly applauded. 
 ```
+
+One such name was The Gaelic Society, and by January 1919, Casey was presenting at one of their céilidhthe, a combination that shows how revolutionary fervour could be drummed up amidst a cultural event, and a reminder that the Irish cultural revolution really holds primacy over the political revolution.
+
+### Crowdfunding the Republic
+
+![A flyer for Casey's presentation on Beautiful Ireland - 'illustrated in picture, song and story'.](images/IMG_5753_beautiful_ireland_flyer.PNG)
+
+Among the revolutionary fervour, there are slides of Wolfe Tone who led the failed rebellion of 1798, Parnell's body lying in state, and the bronze statue of [Fr William Casey](https://www.dib.ie/biography/casey-william-a1544) in Abbeyfeale, Co. Limerick. This Casey – who is no relation to our subject – must have been quite the role model for our Richard. He was a Gaelgeoir, musician, GAA man, and temperance activist, which I suspect Fr Richard was too. Fr William was most active in the Land League, for which he gained huge local support, and so was Fr Richard's uncle – another Fr Richard J Casey – to whom I shall one day return. There are no slides related to the Fenian Uprising of 1867, even though its veteran John Devoy had become the leading Republican in New York by the time of Casey's lectures. This may be because the Fenians tried to keep a low profile and used codenames for their gatherings.
 
 ![asdlfkj](images/central_opera_new_york.jpg)
 
@@ -46,7 +46,23 @@ It was this skill that would prove influential years later when it was time for 
 
     -   
 
-        <table>
+        <table style="width:69%;">
+        <colgroup>
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        <col style="width: 4%" />
+        </colgroup>
         <thead>
         <tr>
         <th><p>Col1</p></th>
@@ -210,7 +226,23 @@ It was this skill that would prove influential years later when it was time for 
 
 -   
 
-    <table>
+    <table style="width:68%;">
+    <colgroup>
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    <col style="width: 4%" />
+    </colgroup>
     <thead>
     <tr>
     <th><p>Col1</p></th>
@@ -367,3 +399,5 @@ It was this skill that would prove influential years later when it was time for 
         -   
 
 ![](images/clipboard-1278142236.png)
+
+logs notes <https://www.notion.so/2025-11-24-Monday-2b54cfb361648055870ad16f0c56f5d5>
