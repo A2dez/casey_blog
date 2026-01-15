@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "casey_blog"
+  title: "What the Dickens!"
   navbar:
     right:
       - about.qmd
@@ -19,3 +19,5 @@ format:
 
 editor: visual
 
+publish:
+  gh-pages: true

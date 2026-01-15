@@ -1,0 +1,22 @@
+# RStudio user-specific files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project file backups
+*.Rproj
+
+# Quarto output directories
+_site/
+docs/
+
+# Quarto cache (optional but recommended)
+.qmd-cache/
+.quarto/
+
+# macOS junk
+.DS_Store
+
+# Temporary files
+*.tmp
