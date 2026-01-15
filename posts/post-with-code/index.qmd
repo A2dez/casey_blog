@@ -11,3 +11,5 @@ This is a post with executable code.
 ```{r}
 1 + 1
 ```
+
+![testin](images/beautiful_ireland_for_diaspora.png)
