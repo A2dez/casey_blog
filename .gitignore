@@ -20,3 +20,7 @@ docs/
 
 # Temporary files
 *.tmp
+
+/.quarto/
+
+**/*.quarto_ipynb
