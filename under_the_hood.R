@@ -52,9 +52,36 @@ ls -a
 
 quarto create post the_fr_casey_collection.qmd
 quarto check project
+
+git status
+git add .
+git commit -am 'two posts to test'
+quarto publish gh-pages
+
+git commit -am 'testing casey collection'
+git add posts/post-with-code/images/
+git commit -am 'testing update'
+git push
+quarto publish gh-pages
+
+cp -r posts/the_fr_casey_collection/images posts/beautiful_ireland/images
+
 # -------------------------------------------------------------------------
 
+mkdir posts/the_fr_casey_collection
 
+mkdir posts/beautiful_ireland
+mkdir posts/opening_ceremony
+touch posts/opening_ceremony/index.qmd
+cp "C:\Users\admin\Documents\casey_book_data\opening_ceremony_Dungarvan_Observer_05_May_08.pdf" posts/opening_ceremony
+rename {images => posts/the_fr_casey_collection/images}/Monsignor Casey oldskerries_dot_ie-01.png (100%)
+
+# clean out deafult posts
+rm -r posts/post-with-code
+rm -r posts/welcome
+git status
+git commit -am 'edit beautiful ireland, remove default posts'
+git push
 
 01-2213055
 01-2214141

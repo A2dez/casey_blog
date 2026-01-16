@@ -2,7 +2,7 @@
 title: "Beautiful Ireland: illustrated in picture, song and story"
 ---
 
-![*The young priest spoke in 1919 to the Gaelic Society of New York about "The Irish Brigade". In other words, he spoke to The Fenians about The IRA.*](images/clipboard-3119683237.png){alt="The young priest spoke in 1919 to the Gaelic Society of New York about \"The Irish Brigade\"" fig-align="center" width="602"}
+![The young priest spoke in 1919 to the Gaelic Society of New York about "The Irish Brigade"](images/clipboard-3119683237.png){fig-align="center" width="602"}
 
 We saw in the last post that The Very Reverand Monsignor Richard J Casey amassed a sizeable collection of slides from talks he gave during his time in New York (1915-20) and then afterwards in Ireland during the early years of The Fres State. This time I want to talk about the Revolutionary nature of these talks. Their subject matter, the venues and the newspaper reports, mostly based on newspaper clippings that Casey kept, but also based on more general research into the topic of funding drives in America.
 
@@ -46,23 +46,7 @@ It was this skill that would prove influential years later when it was time for 
 
     -   
 
-        <table style="width:69%;">
-        <colgroup>
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        <col style="width: 4%" />
-        </colgroup>
+        <table>
         <thead>
         <tr>
         <th><p>Col1</p></th>
@@ -226,23 +210,7 @@ It was this skill that would prove influential years later when it was time for 
 
 -   
 
-    <table style="width:68%;">
-    <colgroup>
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    <col style="width: 4%" />
-    </colgroup>
+    <table>
     <thead>
     <tr>
     <th><p>Col1</p></th>
