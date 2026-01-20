@@ -83,6 +83,8 @@ git status
 git commit -am 'edit beautiful ireland, remove default posts'
 git push
 
+git status 
+rm posts/opening_ceremony.index.qmd
 01-2213055
 01-2214141
 
