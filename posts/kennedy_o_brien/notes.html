@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>casey_blog – What the Dickens!</title>
+<title>notes – What the Dickens!</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,77 +68,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">What the Dickens!</span>
     </a>
   </div>
@@ -151,7 +91,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -172,200 +112,266 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">casey_blog</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block"></header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="YXJjaGl2ZXM=">archives <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9yeQ==">history <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TXNnciUyMENhc2V5">Msgr Casey <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
+<p><strong>Dublin Businessmen</strong></p>
+<ul>
+<li><p>Lemass, Crowley, Cox, KOB, <a href="https://www.notion.so/2025-12-22-Monday-2d14cfb361648003aa41ed4011ff4128#2d24cfb3616480b796f4df14f329d11a">Notes</a></p>
+<ul>
+<li>friendly with Sean Lemass</li>
+<li>disgrace of having leather going out of the country and none of it being tanned</li>
+</ul></li>
+<li><p>KOB and estimates</p>
+<ul>
+<li>accountant, numbers man etc</li>
+</ul></li>
+<li><p>Why Portlaw?</p>
+<ul>
+<li><p>surely KOB needed somewhere but not there</p></li>
+<li><p>cotton factory etc <a href="https://www.portlawheritage.ie/industrial-past/" class="uri">https://www.portlawheritage.ie/industrial-past/</a></p>
+<ul>
+<li><em>an old man of 94 applied for work in the tannery, said he had been a Malcomson employee, and asserted his name should be first on the pay-roll. Every Saturday he stands outside the paymaster’s office, as if unwilling to believe he has not been included in the latest development</em>…</li>
+</ul></li>
+</ul></li>
+<li><p>Dungarvan as a complementary bolt-on</p>
+<ul>
+<li>need to c</li>
+</ul></li>
+</ul>
+<hr>
+<p><a href="https://www.irishlifeandlore.com/product/tom-obrien-aged-80-part-1/" class="uri">https://www.irishlifeandlore.com/product/tom-obrien-aged-80-part-1/</a></p>
+<ul>
+<li>11 KOB’s in the 1911 Census, including his father (a pig buyer) and himself, listed as an accountant.</li>
+</ul>
+<p>Kennedy O’Brien was one of the few bona fide leather men in the country</p>
+<ul>
+<li><p>survivor of the tanning trade</p>
+<ul>
+<li><a href="https://www.failteromhat.com/kelly1915.htm" class="uri">https://www.failteromhat.com/kelly1915.htm</a></li>
+</ul></li>
+<li><p>Closest thing to an Industry Baron</p>
+<ul>
+<li><p>Family man - each of them got a bit of the business too</p>
+<ul>
+<li>A real family business</li>
+<li>all of the brothers were involved.</li>
+<li>sisters not involved - got married young - didn’t have to have careers</li>
+</ul></li>
+<li><p>KOB’s story is instructively different from Austie’s because he was a real leather man whereas Austie was a community man and it didn’t matter what the factory did</p></li>
+<li><p>Austie would have learnt a lot from him</p></li>
+</ul></li>
+</ul>
+<!-- -->
+<ul>
+<li><p>He grew up in Limerick, the son of pig buyer also called Kennedy O’Brien.</p>
+<ul>
+<li>It was a name that goes back for generations and census records of 1911 show eleven men of that name in the country, most of them in the Limerick area, and none born too far away. There might have been more men of the same name only the Catholic Church didn’t like children to be baptised anything other than a saint’s name, but family lore claims that Kennedy Senior - or possibly Kennedy Senior Senior, or possibly any of the men looking to have their child named Kennedy - threatened the priest that if the Catholic Church wouldn’t baptise the child with the selected name, then they would go round the corner and have the latest Kennedy baptised into the Church of Ireland.</li>
+</ul></li>
+<li><p>Our Kennedy seems was aged 22 at the 1911 Census and was listed as an accountant.</p>
+<ul>
+<li>As a young man, he had passed some exams and was all set to move to Dublin in a few months’ time to pursue a workaday job in his chosen field. However, Young Kennedy was approached by the owner of O’Callaghan’s Tannery in Limerick, a man who doubled up as mayor of Limerick. <em>This tannery was the last vestige of a once-thriving leather industry in Ireland which had been in decline ever since livestock began being exported safely to Britain in the 1820s.</em>
+<ul>
+<li>Mr O’Callaghan told Kennedy that he had some immediate work for the lad and that he could head off to Dublin when the time came. The lad must have had a good head for numbers, and a reputation for it too, as he was tasked with calculating the number of hides O’Callaghan would be needing for various tasks. Kennedy O’Brien would stay with O’Callaghan for many years to come and he worked his way up the company.</li>
+</ul></li>
+</ul></li>
+<li><p>In time he became a Travelling Salesman for O’Callaghan, a job then known as a ‘traveller’ and his role was to sell the tannery’s leather to the shoemakers and shoe repair shops around the entire island of Ireland as partition was yet to be implemented. This gave O’Brien a great appreciation of the needs of the people and how badly employment was needed around the country.</p></li>
+<li><p>it’s not clear exactly how KOB got to know Lemass, but he may well have been friendly with him before his leather business was set up</p>
+<ul>
+<li>Grandfather KOB was involved in the IRB,</li>
+<li>whole lot of stables at the back of Fairgreen</li>
+<li>used to send around Michael Traynor with a donkey and cart</li>
+<li>And all the swill from the hotels would be picked up</li>
+<li>and they used to feed the</li>
+<li>Turns out that Bart was getting guns and moving them around the city of Limerick putting them into the swill</li>
+<li>and if they were held up with by the Auxiliaries or the police there was none of them going to put their hands down into the pig swill</li>
+<li>once they figured it out, Bart was tipped off and he ended up in New York</li>
+<li>Got a job with the Pinkerton detective agency and in that job he could travel all over the United States [for] free. He was running guns to the IRA through the IRB</li>
+<li>So he was very involved. He was a complete headcase. Died in 1919 and buried in Grand Conboy in New York. He was the first Bartholemew</li>
+<li>It’s not a double-barrel name</li>
+<li>sympathetic and supported the movement— he was in danger</li>
+<li>he was involved in incidents. he was very friendly with Sean Lemass.</li>
+<li>Brother Bart (Tom’s Uncle) was involved with the</li>
+</ul>
+<p>For a time he lived in Belfast where he moved with his wife / met her?</p></li>
+<li><p>He eventually centered his life in Dublin and set up his own business as, primarily, a wholesale leather merchant, on North Frederick St,</p>
+<ul>
+<li>In 1927 Kennedy O’Brien set up his own business on 27 North Frederick St,
+<ul>
+<li>and this would be the pivot around which his restless life would be based.</li>
+<li>His son Tom cannot even count the number of houses they lived in around Dublin
+<ul>
+<li>Jones’s Rd</li>
+<li>Shrewsbury Rd x 2</li>
+<li>several others</li>
+</ul></li>
+<li>KOB spent one day per week in N Fred, rest of the week travelling between his businesses</li>
+<li>all the time adding bits to the business.
+<ul>
+<li>Brands were often built around his name
+<ul>
+<li>Neirbo</li>
+<li>Kayobee (football boots and runners - soles for shoes used by Ronnie Delany, long before anyone had a contract with Nike)</li>
+<li>My father also called Kennedy O’Brien continued in the leather business diversiving into manufacturing sports shoes and made the running spikes that Ronnie Delaney wore for his 1956 Olympic Medal in Melbourne.
+<ul>
+<li>upstairs girls making uppers -
+<ul>
+<li>Upper factory upstairs too</li>
+<li>16 girls working on machines, making uppers for shoes</li>
+<li>selling uppers to the repairmen, custom made by the staff</li>
+<li>customers thought the shoe repairman had done</li>
+<li>very skilled workers - all gone now</li>
+<li>if you had a tear in your shoe they’d stitch it for you.</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>Character
+<ul>
+<li>much-admired by the town,
+<ul>
+<li>“nobody works for us, they work with us. We don’t own anybody”</li>
+</ul></li>
+<li>Great respect for the people who worked for him</li>
+<li>they’d do anything for him</li>
+<li>asked people where the offices and told them he was the grandson of KOB. The whole town were down to tell</li>
+<li>Straight-talking, black and white, more of a person person</li>
+</ul></li>
+<li></li>
+</ul></li>
+</ul></li>
+<li><p>Businesses</p>
+<ul>
+<li><ul>
+<li><p>Irish Tanners, Portlaw</p>
+<ul>
+<li><p><a href="https://www.portlawheritage.ie/the-portlaw-tannery/?utm_source=chatgpt.com" class="uri">https://www.portlawheritage.ie/the-portlaw-tannery/?utm_source=chatgpt.com</a></p>
+<p>Protectionism</p>
+<ul>
+<li>led to the establishment of the Portlaw Tannery by Irish Tanners Ltd on the old cotton mill site in the early 1930s, led by managing director and principal shareholder Kennedy O’Brien. The tannery was officially opened by the Minister for Industry and Commerce, Seán Lemass, in 1935.</li>
+<li>see Daly &amp; Decision to go to POrtlaw based on underestimation of the needs
+<ul>
+<li>KOB as managing director and largest shareholder?
+<ul>
+<li>but which british company owned it?</li>
+<li>set up in 1935 in collaboration with a British entrepreneur who owned Western Tanning of Bristol and Redvales Ltd.&nbsp;of Bury.</li>
+</ul></li>
+</ul></li>
+<li>Jeremiah Dempsey, an employee of Kennedy, Crowley and Co&nbsp;appointed the first secretary and accountant (1935–6) of Irish Tanners, Portlaw. <a href="https://www.dib.ie/biography/dempsey-jeremiah-francis-a2520" class="uri">https://www.dib.ie/biography/dempsey-jeremiah-francis-a2520</a></li>
+</ul></li>
+</ul></li>
+<li><p>Milford Tannery (1948)</p></li>
+<li><p>Dickens Leather director</p>
+<ul>
+<li><p>1935 - Austie &amp; Dickens present</p>
+<ul>
+<li>The doctor adn I were much fortified from the technical end of the industry by the presence of Mr KOB, a well-known fiture in the Leather Trade, a Director of the Portlaw Tanner, and subsequently the first Chairman of our own Board of Directors” w</li>
+</ul>
+<!-- -->
+<ul>
+<li>Max Davis bought 500 of Kennedy O’Brien’s shares soon after the sales. Dunno why</li>
+<li>This was before the ledger book was created.</li>
+<li>Kennedy O’Brien was responsible for 1000 shares, but only kept 997 of them, leaving 3 shares for his audit clerks, #10001, #10002, #10003</li>
+</ul></li>
+</ul></li>
+<li><p>Irish Textile Leathers (rathangan?)</p></li>
+<li><p>The Carnew Tanning company - director - Tom involved in that</p></li>
+<li><p>Tannery in Portlaw</p></li>
+<li><p>Managing Director in Dickens Leather (check how long)</p></li>
+<li><p>Shares for sale?</p>
+<ul>
+<li>check the names and addresses of clerks (Crowley I think)</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+<p><a href="https://nationaltreasures.ie/submissions/W2O4BJ?utm_source=chatgpt.com" class="uri">https://nationaltreasures.ie/submissions/W2O4BJ?utm_source=chatgpt.com</a></p>
+<p>national treasures</p>
+<p>Kennedy O’Brien - grandchild - <strong>Geraldine O’Brien</strong></p>
+<p>Portlaw</p>
+<ul>
+<li><p>Portlaw heritage aug 2025</p>
+<ul>
+<li><p><a href="https://www.waterford-news.ie/news/heritage-week-was-great-success-in-waterford-as-historic-business-recalled_arid-70014.html" class="uri">https://www.waterford-news.ie/news/heritage-week-was-great-success-in-waterford-as-historic-business-recalled_arid-70014.html</a></p>
+<p>Kennedy O’Brien, first Managing Director of Irish Tanners,</p></li>
+</ul></li>
+<li><p>Huge Painting of Kennedy O’Brien</p>
+<ul>
+<li>accounts for Irish Leathers</li>
+<li>Portlaw</li>
+<li>samples of leathers</li>
+<li>Ken O’Brien</li>
+<li>article he delivered</li>
+<li>slides and names mentioned</li>
+<li>handwritten notes</li>
+</ul></li>
+<li><p>Photos</p>
+<ul>
+<li><a href="https://catalogue.nli.ie/Record/vtls000595086" class="uri">https://catalogue.nli.ie/Record/vtls000595086</a></li>
+</ul></li>
+<li><ul>
+<li>Irish Tanners</li>
+<li>250</li>
+<li>It was hoped that ‘the Free State market for leather and the protection afforded by the tariffs are sufficient to ensure good dividends on the company’s capital’.35
+<ul>
+<li>This tannery was said to be the sixth largest in the world in 1957. Who owns whom records it as owned by UK firm Allied Leather. It employed 250.</li>
+</ul></li>
+</ul></li>
+</ul>
+<p>“This sample swatch of leathers connects me to the model town of Portlaw in Co Waterford.The factory &amp; town was set up by the Malcolmson family to employ &amp; house their cotton workers circa 1840, the factory was a steel framed structure said to be the largest single span building in the world at that time and turned over 2M of raw cotton and processed 6M yds of calico. After the American war of independance when protectionist tactics were introduced the Irish cotton industry declined and the factory and mill closed. Subsequently the Portlaw Spinning Co.&nbsp;took over the mill but the company had a short life span survive closing in 1904. <strong>My families involvement with Portlaw started when my grandfather Kennedy O’Brien set up Irish Leathers in 1920 taking over the factory buildings in Portlaw in 1932 and employing several hundred employees at the height of the tanning industry until the introdution of plastics into shoe making which heralded the downfall of the leather industry in Ireland and the company closed in 1980.</strong></p>
+<ul>
+<li><p>My father also called Kennedy O’Brien continued in the leather business diversiving into manufacturing sports shoes and made the running spikes that Ronnie Delaney wore for his 1956 Olympic Medal in Melbourne.</p></li>
+<li><p>I found it facinating as a child to visit Portlaw and the other tanneries my grandfather and his children had an involvement in and</p></li>
+<li><p>spent many hours in the <strong>North Fredrick St.&nbsp;factory in Dublin</strong> seeing the cutting and forming of leather into shoes instilling in me a ‘can do’ attitude and encouraging my interest in business, and of course my love of interesting leather shoes.</p></li>
+<li><p>This piece of leather from the Irish Tanneries swatch housed in the Portlaw Heritage Centre and who kindly gave me a piece when I visited last Nov 2016, reminds me that my life is made up of lots of happy childhood family memories around leather.”</p></li>
+</ul>
+<p>Submitted by:&nbsp;<strong>Geraldine O’Brien</strong></p>
+<section id="kennedy-obrien" class="level3">
+<h3 class="anchored" data-anchor-id="kennedy-obrien">Kennedy O’Brien</h3>
+<ul>
+<li></li>
+</ul>
+<p><strong>CAtherine Casey’s funeral</strong></p>
+<ul>
+<li>Kennedy O’Brien sent a telegram from Dublin</li>
+</ul>
+<p><strong>Shares</strong></p>
+<p><strong>Kennedy O’Brien</strong> (founder Irish tanners Portlaw),</p>
+<p><strong>Portlaw Tannery</strong></p>
+<ul>
+<li>e largest tannery in Ireland</li>
+<li>concrete building 1945</li>
+</ul>
+<p><a href="https://portlawwalkingtrails.wordpress.com/2017/12/16/irish-tanners-portlaw-in-the-20th-century/?utm_source=chatgpt.com" class="uri">https://portlawwalkingtrails.wordpress.com/2017/12/16/irish-tanners-portlaw-in-the-20th-century/?utm_source=chatgpt.com</a></p>
+<p>Limerick Tannery</p>
+<p><a href="https://limerickslife.com/ocallaghan/?utm_source=chatgpt.com" class="uri">https://limerickslife.com/ocallaghan/?utm_source=chatgpt.com</a></p>
+<p>Further info:</p>
+<ul>
+<li><p>Ger Crotty call</p></li>
+<li><p>Family members</p></li>
+</ul>
+<!-- -->
+<ul>
+<li><p>KOB</p></li>
+<li><p>Arthur Cox</p></li>
+<li><p>Vincent Crowley</p></li>
+</ul>
+<p>I bought and downloaded this mp3 file for E10</p>
+<p>I met Tom O’Brien at his own home, where we spoke about the day his father started work in a tanning factory in Limerick city, run by the O’Callaghans. He described his father’s early days growing up in the city, and his involvement with the Garryowen Rugby Club in the early 1900s. The family moved to Dublin in 1927, where his father set up business as a wholesale leather merchant under the title of Kennedy O’Brien and Company Ltd (Kennedy was his father’s Christian name, a name which can be traced back in the O’Brien clan). Tom himself began work in his father’s tannery in Milford in 1948.</p>
+<p>Opening Dungarvan Observer</p>
+<p><a href="https://archive.waterfordcouncil.ie/Historical%20Newspapers,%20Books%20and%20Journals/Newspapers/Dungarvan%20Observer/1937/Dungarvan_Observer_05_May_08.pdf">https://archive.waterfordcouncil.ie/Historical Newspapers, Books and Journals/Newspapers/Dungarvan Observer/1937/Dungarvan_Observer_05_May_08.pdf</a></p>
 
 
+</section>
 
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1768547731007" data-listing-reading-time-sort="16" data-listing-word-count-sort="3124">
-<div class="thumbnail"><a href="./posts/beautiful_ireland/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts\beautiful_ireland\images\clipboard-3119683237.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/beautiful_ireland/index.html" class="no-external">Beautiful Ireland: illustrated in picture, song and story</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/beautiful_ireland/index.html" class="no-external">
-We saw in the last post that The Very Reverand Monsignor Richard J Casey amassed a sizeable collection of slides from talks he gave during his time in New York (1915-20) and…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/beautiful_ireland/index.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1769175101297" data-listing-reading-time-sort="11" data-listing-word-count-sort="2099">
-<div class="thumbnail"><a href="./posts/kennedy_o_brien/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts\kennedy_o_brien\images\portlaw_ad_largest_tannery_in_ireland.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/kennedy_o_brien/index.html" class="no-external">Kennedy O’Brien and the Portlaw Tannery</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/kennedy_o_brien/index.html" class="no-external">
-Kennedy O’Brien was one of the few <em>bona fide</em> leather men left in early Free State Ireland by which time the tanning industry had dwindled almost entirely out of existence.…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/kennedy_o_brien/index.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-file-modified-sort="1769017508859" data-listing-reading-time-sort="16" data-listing-word-count-sort="3140">
-<div class="thumbnail"><a href="./posts/kennedy_o_brien/notes.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/kennedy_o_brien/notes.html" class="no-external">Kennedy O’Brien</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/kennedy_o_brien/notes.html" class="no-external">
-<strong>Dublin Businessmen</strong>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/kennedy_o_brien/notes.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-file-modified-sort="1769002843451" data-listing-reading-time-sort="26" data-listing-word-count-sort="5109">
-<div class="thumbnail"><a href="./posts/opening_ceremony/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/opening_ceremony/index.html" class="no-external">Opening Ceremony</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/opening_ceremony/index.html" class="no-external">
-<strong>Monday, May 3, 1937</strong>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/opening_ceremony/index.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-listing-file-modified-sort="1769003639416" data-listing-reading-time-sort="21" data-listing-word-count-sort="4078">
-<div class="thumbnail"><a href="./posts/opening_ceremony/notes.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/opening_ceremony/notes.html" class="no-external">notes</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/opening_ceremony/notes.html" class="no-external">
-<strong>Extra work</strong>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/opening_ceremony/notes.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="YXJjaGl2ZXMlMkNoaXN0b3J5JTJDTXNnciUyMENhc2V5" data-listing-date-sort="1768435200000" data-listing-file-modified-sort="1768485995048" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2370">
-<div class="thumbnail"><a href="./posts/the_fr_casey_collection/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts\the_fr_casey_collection\images\beautiful_ireland_for_diaspora.png"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/the_fr_casey_collection/index.html" class="no-external">The Fr Casey Collection</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('YXJjaGl2ZXM='); return false;">archives</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yeQ=='); return false;">history</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TXNnciUyMENhc2V5'); return false;">Msgr Casey</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/the_fr_casey_collection/index.html" class="no-external">
-After twenty-five years as a chaplain with the Irish Defence Forces, Monsignor Rev Richard J Casey moved to Skerries where he lived the remainder of his life as Parish…<sup></sup>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/the_fr_casey_collection/index.html" class="no-external">
-<div class="listing-date">
-Jan 15, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="bmV3cw==" data-listing-date-sort="1768176000000" data-listing-file-modified-sort="1768476062759" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<div class="thumbnail"><a href="./posts/welcome/index.html" class="no-external">
-
-<p class="card-img-top"><img src="posts\welcome\thumbnail.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/welcome/index.html" class="no-external">Welcome To My Blog</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/welcome/index.html" class="no-external">
-This is the first post in a Quarto blog. Welcome!
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/index.html" class="no-external">
-<div class="listing-date">
-Jan 12, 2026
-</div>
-<div class="listing-author">
-Tristan O’Malley
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
