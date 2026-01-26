@@ -39,12 +39,12 @@ However, a new law (The Control of Manufacturers Acts 1932-4) introduced by Fian
 [^5]: Colbert, John Patrick \| Dictionary of Irish Biography
 
 | Address | Name | Portlaw | Dickens Leather |
-|-----------|---------------------------|------------------------|-----------|
+|----|----|----|----|
 | Dublin | Kennedy O'Brien | Director & General Manager | Chairman & Director |
 | England | HG Barlow | Managing Director | \- |
 | Northampton | Reginald Dickens | (present at opening) | Managing Director |
 | Dublin | Vincent Crowley | Chairman | Accountant |
-| Waterford | R J Hearne | Director |  - |
+| Waterford | R J Hearne | Director | \- |
 | Dublin | Irish Credit Corporation | capital investors | \- |
 | Dungarvan | Austie Casey | \- | Director |
 | Dungarvan | Joe Molony | \- | Director |
