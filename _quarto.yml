@@ -1,15 +1,15 @@
-project:
-  type: website
-
-website:
-  title: "What the Dickens!"
-  navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+# project:
+#   type: website
+# 
+# website:
+#   title: "What the Dickens!"
+#   navbar:
+#     right:
+#       - about.qmd
+#       - icon: github
+#         href: https://github.com/
+#       - icon: twitter
+#         href: https://twitter.com
 format:
   html:
     theme:
@@ -17,14 +17,14 @@ format:
       - brand
     css: styles.css
 
-# project:
-#   type: book
-# 
-# book:
-#   title: "My Book Title"
-# author: "Des Ryan"
-# chapters:
-#   - posts\beautiful_ireland\index.qmd
+project:
+  type: book
+
+book:
+  title: "My Book Title"
+author: "Des Ryan"
+chapters:
+  - posts\beautiful_ireland\index.qmd
 
 editor: visual
 
