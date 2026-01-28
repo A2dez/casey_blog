@@ -30,7 +30,7 @@ book:
     - posts/history_of_leather_industry/index.qmd
     - posts/kennedy_o_brien/index.qmd
     - posts/reginald_dickens/notes.qmd
-    - posts/shareholders/index.qmd
+    # - posts/shareholders/index.qmd
 editor: visual
 
 publish:
