@@ -1,22 +1,4 @@
-### **The changing state of the leather industry in Ireland.**
-
-Plots
-
--   map of tanneries & footwear factories in Ireland
-
--   bubbleplot showing the number of employees in each factory over time (GET THE DATA)
-
-**Timeline for chapter**
-
--   1820-1930: Decline
-
--   1930s Resurrection (THIS OVERLAPS WITH KENNEDY O'BRIEN PROFILE)
-
-    -   Location (ALSO OVERLAPS WITH KOB)
-
--   1940s variation? (MISSING)
-
--   1950s Peak and slow decline (MISSING)
+### **The leather industry in Ireland.**
 
 **1830s Peak**
 
@@ -34,6 +16,4 @@ Between 1922 and 1932, there was no improvement in the leather industry, althoug
 
 This of course changed with the arrival the Fianna Fail government in 1932
 
-Location
-
-While the emerging footwear industry was clustered along the
+------------------------------------------------------------------------

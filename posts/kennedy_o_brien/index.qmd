@@ -1,5 +1,5 @@
 ---
-title: "Kennedy O'Brien and the Portlaw Tannery"
+title: "Kennedy O'Brien"
 ---
 
 ![*The Tannery in Portlaw was huge but its output complemented its Dungarvan counterpart.*[^1]](images/portlaw_ad_largest_tannery_in_ireland.png)
@@ -39,7 +39,7 @@ However, a new law (The Control of Manufacturers Acts 1932-4) introduced by Fian
 [^5]: Colbert, John Patrick \| Dictionary of Irish Biography
 
 | Address | Name | Portlaw | Dickens Leather |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | Dublin | Kennedy O'Brien | Director & General Manager | Chairman & Director |
 | England | HG Barlow | Managing Director | \- |
 | Northampton | Reginald Dickens | (present at opening) | Managing Director |

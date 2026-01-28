@@ -1,10 +1,197 @@
 ## Leather Industries in Ireland: D J Dwyer, 1961
 
+Plots
+
+-   map of tanneries & footwear factories in Ireland
+
+-   bubbleplot showing the number of employees in each factory over time (GET THE DATA)
+
+**Timeline for chapter**
+
+-   1820-1930: Decline
+
+-   1930s Resurrection (THIS OVERLAPS WITH KENNEDY O'BRIEN PROFILE)
+
+    -   Location (ALSO OVERLAPS WITH KOB)
+
+-   1940s variation? (MISSING)
+
+-   1950s Peak and slow decline (MISSING)
+
+## State of the Industry
+
+-   The history of leather industries in Ireland during the second half of the nineteenth century and the first quarter of the twentieth was one of decline almost to extinction.
+
+    -   1837
+    -   46 tanneries in city of Cork, employing 625.
+        -   compare numbers in the 1930s/40s (was it Daly?)
+    -   Interesting to see how tiny they must have been compared to Dickens Leather
+    -   1852
+    -   26 tanneries in Cork, and few full-time.
+    -   1902
+    -   3 tanneres, and two dealt with calf skins
+    -   18 in Ireland, 30k hides so sole and harness leather.
+    -   1923
+    -   only 5
+    -   Irish tanneries were supplying only 1/20th of the leather needed
+    -   Limerick 200 hides per wekk
+    -   Thomastown 24
+    -   Clonmel 25
+    -   Ballitore 20
+    -   New Ross - closed down. That's 13,500 over 50 working weeks versus a need for 100k hides - Fiscal Enquiy Committee, 1923, clamied that the industry would supply the whole of Ireland's needs if granted protection.
+    -   Irish Free State wsa imporking 350k dozen pairs of shoews annually, forming the most important export market of the UK boot and shoe industry. (Price, 28)
+        -   To envision this difference
+
+            , there are 225 GAA clubs in the county of Cork, the same number of rugby clubs as are on the whole island
+
+-   Report in 1926 shows just four tanneries
+
+    -   Limerick large
+
+        -   Callaghans in Limerick, 200 hides per week, since 1830
+
+    -   three small-scale: Thomastown 24 Clonmel 25 Ballitore 20 New Ross (closed)
+
+-   Situation
+
+    -   Cork Tanneries
+
+-   Reasons
+
+    -   Industry specific
+
+        -   oak vanished
+
+        -   export in livestock –\> improved shipping communications (e.g. lighthouses?)
+
+        -   tariffs into England,
+
+        -   quality due to duties
+
+        -   demand reduced post-famine
+
+        -   no credit to tanneries
+
+    -   Ireland general
+
+        -   famine, banks,
+
+## Tariffs
+
+-   1924: leather was first to have tariffs: boots and shoes
+
+    -   with goal of resurrecting tanning industry
+
+    -   Brits cut the prices so the tariffs had little effect
+
+-   in 1928, Tanners federation lodged a case with the Tariff Commission (created in1926)
+
+    -   minimal interference (harness leather and manufactured harness) from 1931
+
+-   1932 footwear
+
+    -   37.5% (25% preferential) ad valorenm rate.
+
+    -   Non-leather and childrens footwear at 22.5% (15% preferential). This changed during the Economic war when preferential rates were abandoned
+
+-   1934
+
+    -   all footwear at 30%
+
+### Footwear industry
+
+-   you might expect synergy between these two closely related industries but in reality the growth of the Irish tanning industry was in many ways bad for footwear
+
+    -   Irish leather functioned as a raw material for Irish footwear and it would have been cheaper simply to import the leather from Britain.
+
+        -   price per hundredweight 5.95 v 7.20
+
+### **Locations**
+
+-   Footwear clustered in Louth but tanning in the South East
+
+Location
+
+-   Transport of materials
+
+    -   Agents (can survive long-distance transport)
+
+    -   Hides (more important in Ireland)
+
+        -   low value but expensive to transport (relatively)
+
+        -   1947: home-produced hides 404,500 v 7,500 (but look at Dail records of 1948-9)
+
+        -   Dublin stock is the largest
+
+        -   hide merchants in the other main ports and some inand
+
+        -   Eastern half of country –\> hides from Dublin
+
+-   Agents for Dungarvan:
+
+    -   chromes & synthetic from UK
+
+    -   vegetable from France, india, Africa & South America
+
+-   Hides more important than Agents
+
+Location Requirements
+
+-   lots of ground space needed
+
+    -   large ports have tanneries when hides are imported
+
+    -   needed buildings to be available, and they often were due to reduced industry around the country in 1850-1930
+
+    -   What was the purpose of buildings in Dungarvan? Was it the workhouse?
+
+-   Disposal of effluent
+
+-   Water supply ins
+
+Reasons (leather):
+
+-   Decentralizastion
+
+-   geography
+
+-   locals support the funding
+
+-   adapting old buildings
+
+    -   West came later (Undeveloped Areas 1952)
+
+Dungarvan
+
+-   The desire of the founders to locate an industry \[any!\] in Dungarvan and also the proximity of the site to the sea for the discharge of effluent.
+
+**Tanning Industry growth in Free State**
+
+| Col1 | Col2 | Col3 | Col4 | Col5 | Col6 |
+|------------|------------|------------|------------|------------|------------|
+| Portlaw | 1935 | sole leather |  | River in |  |
+| New Ross | 1935 |  | subsidiary |  |  |
+| Dungarvan | 1936 | side & upper |  |  |  |
+| Gorey | 1936 | side & upper |  |  |  |
+| Carrick | \`1938 | upper |  | River |  |
+| Portarlington | 1940 |  |  |  |  |
+| Dublin | 1948 | chamois & shoe linings | ??? |  |  |
+| Milford | 1948 | chamois & shoe linings | KOB | river |  |
+| Tralee |  |  | Limerick |  |  |
+| Carnew | 1953 | Shoe linings |  |  |  |
+| kenmare | 1955 | side leather, calf skin leather, suede & glove skin |  | river |  |
+| Ferns | ? |  |  | river |  |
+| Cork | ? |  |  | river |  |
+| Monaghan | ? |  |  | river |  |
+
+------------------------------------------------------------------------
+
 Maps & charts
 
 -   show map of tanneries around Ireland, along with dates
 
--   
+    -   add in footwear if desired
 
 -   Leather industry over time
 
@@ -30,7 +217,7 @@ Issues
 
 -   Export trade in live cattle \[also sheep\]
 
--   Tariffs
+-   Tariffs (C19)
 
     -   60% on Irish leather into England but only 10% on English into Ireland.
 
@@ -74,6 +261,16 @@ Tariffs
 
     -   Brits cut the prices so the tariffs had little effect
 
+-   1932
+
+    -   37.5% (25% preferential) ad valorenm rate.
+
+    -   Non-leather and childrens footwear at 22.5% (15% preferential). This changed during the Economic war when preferential rates were abandoned
+
+-   1934
+
+    -   all footwear at 30%
+
 Industry non-existent
 
 -   Callaghans in Limerick, 200 hides per week, since 1830
@@ -89,7 +286,7 @@ Industry non-existent
 -   Imported Footwear: from 263k dozen pairs to 17k
 
 | Col1 | Col2 | Col3 | Col4 | Col5 | Col6 |
-|-----------------|-----------|--------------------|------------|---------------|--|
+|------------|------------|------------|------------|------------|------------|
 | Portlaw | 1935 | sole leather |  | River in |  |
 | New Ross | 1935 |  | subsidiary |  |  |
 | Dungarvan | 1936 | side & upper |  |  |  |
@@ -177,10 +374,98 @@ Location Requirements
 
     -   large ports have tanneries when hides are imported
 
+    -   needed buildings to be available, and they often were due to reduced industry around the country in 1850-1930
+
+    -   What was the purpose of buildings in Dungarvan? Was it the workhouse?
+
 -   Disposal of effluent
 
 -   Water supply ins
 
+Reasons (leather):
+
+-   Decentralizastion
+
+-   geography
+
+-   locals support the funding
+
+-   adapting old buildings
+
+    -   West came later (Undeveloped Areas 1952)
+
 Dungarvan
 
 -   The desire of the founders to locate an industry \[any!\] in Dungarvan and also the proximity of the site to the sea for the discharge of effluent.
+
+**Footwear**:
+
+-   mukch larger employer
+
+Issues
+
+-   Being in Dublin would have kept the shoe industry more responsive to fashion demands
+
+**Demise**
+
+-   Dwyer (188): it is doubtful whether, under present day conditions of intense competition beween large British and Continental producers, the small Irish units could survive withou protection.
+
+-   Excess cattle hides were still available but were not converted into leather. WHY NOT?
+
+    -   surely as a major livestock producer, we ought to be a major leather producer
+
+------------------------------------------------------------------------
+
+**Jon Press - footwear, ch. 2: protectionism and rapid growth**
+
+-   FF 1932: protection & self-sufficiency
+
+    -   the big weakness: B
+
+-   Portlaw 1935
+
+    -   sole leather
+    -   flat, spaciouis site within a bend of the River Clodiagh
+
+-   New Ross
+
+    -   same company, subsidiary tannery
+    -   specialising in sole leather
+
+-   Dungarvan 1936
+
+-   Gorey 1936
+
+    -   side and upper leather
+
+-   Carrick-on-Suir 1938
+
+    -   Upper leathers
+
+-   Postwar
+
+**Training staff**
+
+-   Key workers from UK were brought in. In some cases employees were sent for training to English factories.
+-   Instruction classes were run by local vocational education committees.
+-   Temporary wage scales were set up for inexperienced operatives, trade union perimission was obtained to engage employees for two years at low rates.
+
+### Location of tanneries
+
+-   depends on tanning agents and hides
+-   Tanning agents
+    -   can travel far, less perishable
+        -   bark of certain shrubs, but since mid C19 the agents have been synthrietc. Most of them are now imported from ENgliand
+        -   Heavy sole leathers
+            -   use imported vegetable agents wholly (80% mimosa from South and East Africa) and 20% quebractho from Argentina) 5% myrobalam (India) and 5% Chestnut (France & Italy)
+        -   Light leathers
+            -   imported chroms and alum satls and vegetable tanning agents
+
+            -   Chrome and synthetic materials from UK.
+
+                Vegetable agents, synthetics and chorm imported through GB
+        -   If the provenance of tanning agents were an important locating influence, a port site would be indicated fro Irish tanneies
+    -   Hides
+        -   cheap bi-product of meat production, but comparatiely expensive to transport.
+-   Locations
+    -   Dispersal of industry as answerd

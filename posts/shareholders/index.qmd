@@ -1,3 +1,8 @@
+---
+title: "Shareholders"
+---
+
+
 ![*The treemap displays the number of shares for each shareholder. Reginald Dickens owned half of the 6000 shares, while directors had at least 500. Austie Casey had 1000.*](images/shareholders_treemap_1.png)
 
 *The following is taken from an initial analysis of the ledger book, and lots of details need to be clarified on further inspection.*
