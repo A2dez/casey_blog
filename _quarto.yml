@@ -17,6 +17,15 @@ format:
       - brand
     css: styles.css
 
+# project:
+#   type: book
+# 
+# book:
+#   title: "My Book Title"
+# author: "Des Ryan"
+# chapters:
+#   - posts\beautiful_ireland\index.qmd
+
 editor: visual
 
 publish:
