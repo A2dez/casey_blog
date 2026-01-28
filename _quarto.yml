@@ -22,10 +22,10 @@ project:
 
 book:
   title: "What the Dickens"
-author: "Des Ryan"
-chapters:
-  - index.qmd
-  - posts\beautiful_ireland\index.qmd
+  author: "Des Ryan"
+  chapters:
+    - index.qmd
+    - posts/beautiful_ireland/index.qmd
 editor: visual
 
 publish:
