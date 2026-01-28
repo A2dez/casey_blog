@@ -10,12 +10,12 @@
 #         href: https://github.com/
 #       - icon: twitter
 #         href: https://twitter.com
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+# format:
+#   html:
+#     theme:
+#       - cosmo
+#       - brand
+#     css: styles.css
 
 project:
   type: book
@@ -24,10 +24,8 @@ book:
   title: "What the Dickens"
 author: "Des Ryan"
 chapters:
-    - index.qmd
-    - part: "Background"
-      chapters:
-      - posts\beautiful_ireland\index.qmd
+  - index.qmd
+  - posts\beautiful_ireland\index.qmd
 editor: visual
 
 publish:
