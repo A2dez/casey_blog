@@ -24,6 +24,7 @@ book:
   title: "My Book Title"
 author: "Des Ryan"
 chapters:
+  - index.qmd
   - posts\beautiful_ireland\index.qmd
 
 editor: visual
