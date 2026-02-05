@@ -1,5 +1,27 @@
 
 
+
+title="kennedy_o_brien
+title="reginal_dickens
+title="brits_in"
+title="shareholders"
+title="history_of_leather_industry"
+echo $title
+folder="posts/$title"
+mkdir $folder
+
+file="posts/$title/index.qmd"
+touch $file
+open $file
+notes="posts/$title/notes.qmd"
+touch $notes
+open $notes
+
+
+# -------------------------------------------------------------------------
+
+
+
 # rmdir /s /q "C:\Users\admin\Documents\casey_blog"
 cd ~
   git clone https://github.com/A2dez/casey_blog
@@ -67,12 +89,24 @@ quarto publish gh-pages
 cp -r posts/the_fr_casey_collection/images posts/beautiful_ireland/images
 
 # -------------------------------------------------------------------------
+title="kennedy_o_brien"
+echo $title
+folder="posts/$title"
+mkdir $folder
+
+file="posts/$title/index.qmd"
+touch $file
+open $file
+notes="posts/$title/notes.qmd"
+touch $notes
+open $notes
 
 mkdir posts/the_fr_casey_collection
-
 mkdir posts/beautiful_ireland
 mkdir posts/opening_ceremony
-touch posts/opening_ceremony/index.qmd
+open posts/opening_ceremony/index.qmd
+
+
 cp "C:\Users\admin\Documents\casey_book_data\opening_ceremony_Dungarvan_Observer_05_May_08.pdf" posts/opening_ceremony
 rename {images => posts/the_fr_casey_collection/images}/Monsignor Casey oldskerries_dot_ie-01.png (100%)
 
@@ -92,6 +126,35 @@ Claudine from In patients  -->
   St Charles Ward, dealing with elective surgeries
 Looking to expedite the date -- will email secretaries, and say that it's on the advice of Dr Paul Ryan
 
+quarto render pt-BR_accent_syllabus.qmd --to pdf
+  quarto install tinytex
+  
+  git status
+  git add posts/kennedy_o_brien
+  git add .
+  git commit -am 'kennedy obrien notes'
+  git commit -am 'kob episode start'
+  git commit -am 'kob concluded 1300ish''
+git push  
+git add posts/shareholders/index.qmd
+git status
 
-  
-  
+git commit -am 'brits in notes, history of leather 700 words'
+git commit -m 'shareholders'
+git push
+
+git rm -r posts/shareholders
+git status
+git commit -am 'remove shareholders for now'
+git push
+
+git commit -am 'quarto yaml for book instead'
+git commit -am 'adding dummy index.qmd'
+git push
+git add index.qmd
+git status
+
+quarto publish gh-pages
+
+quarto render chapter_list.qmd --to pdf
+
