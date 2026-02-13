@@ -158,3 +158,12 @@ quarto publish gh-pages
 
 quarto render chapter_list.qmd --to pdf
 
+
+cd ~
+mkdir projects
+cd projects
+git clone https://github.com/A2dez/to_the_lighthouse
+
+
+git status
+
