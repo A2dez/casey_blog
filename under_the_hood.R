@@ -6,9 +6,15 @@ title="reginal_dickens
 title="brits_in"
 title="shareholders"
 title="history_of_leather_industry"
+title="bart_o_brien"
 echo $title
 folder="posts/$title"
 mkdir $folder
+
+file="$folder/$title.qmd"
+echo $file
+touch $file
+open $file
 
 file="posts/$title/index.qmd"
 touch $file
