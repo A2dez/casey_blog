@@ -51,6 +51,8 @@ git push -u origin master
 git status
 open .gitignore
 
+git rm -r --cached images
+
 git rm -r --cached .Rproj.user
 git rm --cached .Rhistory
 git rm --cached .RData
