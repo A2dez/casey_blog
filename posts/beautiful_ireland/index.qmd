@@ -47,6 +47,22 @@ It was this skill that would prove influential years later when it was time for 
     -   
 
         <table>
+        <colgroup>
+        <col style="width: 11%" />
+        <col style="width: 10%" />
+        <col style="width: 11%" />
+        <col style="width: 17%" />
+        <col style="width: 14%" />
+        <col style="width: 46%" />
+        <col style="width: 10%" />
+        <col style="width: 10%" />
+        <col style="width: 10%" />
+        <col style="width: 10%" />
+        <col style="width: 10%" />
+        <col style="width: 10%" />
+        <col style="width: 10%" />
+        <col style="width: 10%" />
+        </colgroup>
         <thead>
         <tr>
         <th><p>Col1</p></th>
@@ -211,6 +227,22 @@ It was this skill that would prove influential years later when it was time for 
 -   
 
     <table>
+    <colgroup>
+    <col style="width: 22%" />
+    <col style="width: 20%" />
+    <col style="width: 14%" />
+    <col style="width: 19%" />
+    <col style="width: 12%" />
+    <col style="width: 23%" />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    </colgroup>
     <thead>
     <tr>
     <th><p>Col1</p></th>
@@ -369,3 +401,55 @@ It was this skill that would prove influential years later when it was time for 
 ![](images/clipboard-1278142236.png)
 
 logs notes <https://www.notion.so/2025-11-24-Monday-2b54cfb361648055870ad16f0c56f5d5>
+
+July 13, 1921
+
+Letter from Patrick J McNamara in repsonse to RJC's letter
+
+-   McNamara is clearly a very close friend but also a supplier of 'appropriate music' to the Friends of Irish Freedon & Irish Societies
+
+-   Brass, Fif, drum & Bugle bands, violin, flute, lessons,
+
+    -   gatherings of parties, weddings, parades, meetings, church, social affairs, gaelic leagu I FOIF /
+
+<!-- -->
+
+-   arrives ,ju two days after the truce between Sinn Fein (Dev & AGriffith)
+
+-    and celebrates a 'newly free and happy Ireland'
+
+<!-- -->
+
+-   a smile through tears - the best of friends must part
+
+    -   America stands behind Ireland
+
+    -   not so dissimilar, timeline wise, to Ireland supporting Palestine
+
+-   PMac notes that RJC has been appointed to 'a nice place' but my reading is that this was the beginning of the end for RJC, that his energy somehow escaped him after moving to Dublin, where life was smaller and perhaps unable to keep pace with his energy.
+
+-   The Gaelic Feis Ceoil missed his entries –\> not one entry after his departture versus gold and silver medals while he was there
+
+-   others neglected to build on his good work in the Parish
+
+    -   name was mentioned between jigs and reels at Pat Reilly's across hte road from the garage!
+
+Macnamaras Military Band & Orchestra
+
+347 85th st
+
+47 min walk away
+
+RJC had an accident
+
+RJC Moves to 21 Elm Grove, Ranelagh
+
+Patrick J McNamara
+
+‘the best of friends must part’
+
+Still seem to looking for USA to recognise IReland
+
+Lots of music chat
+
+met your old friend Pat COllins, Pat Kerrigan, Pat Lennon & myself (4 Pats)
