@@ -34,9 +34,11 @@ There was only ossified terror in John Egan's eyes when Austie got to him becaus
 
     -   thought he heard the car backfiring
 
-    -    and anointed him
+    -   and anointed him
 
-        -   
+    ```         
+    -   
+    ```
 
 Dr Casey heard what he thought to be shots
 
