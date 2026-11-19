@@ -24,7 +24,7 @@ book:
   title: "What the Dickens"
   author: "Des Ryan"
   chapters:
-    # - index.qmd
+    - index.qmd
     - posts/opening_scene/opening_book_austie_funeral.qmd
     - posts/shareholders/shareholders_info.qmd
     # - posts/beautiful_ireland/index.qmd
