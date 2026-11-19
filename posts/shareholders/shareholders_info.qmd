@@ -1,0 +1,105 @@
+---
+title: "How did Austie Casey get the money to pay for a factory"
+---
+
+**Chapter Structure**
+
+1.  Local Crisis and idea
+2.  **Dungarvan Industrial Development Association**,
+3.  Drafting Company structure
+    1.  power grab
+    2.  Brits In
+4.  Public launch and subscription drive
+5.  Shareholders: Collection and allocation of capital
+    1.  Sales & dates etc
+    2.  
+    3.  **Austie's Money breakdown**
+6.  Formal company set up and governance
+7.  Factory Opening and Political Theatre
+8.  Ongoing returns and risks
+
+-   Check UDC notes for more if possible
+
+The Dungarvan Industrial Development Association was an initiative which led to the creation of Dickens Leather factory in the town and, later, to the Glue and Gelatine factory. Agitation for a factory had begun in 1932, with Austie Casey and Fr Walsh, the chairman, being lead activists. By late 1934, they were looking for appropriate sites in the town and by February 1935 they had managed to convince the government that Dungarvan was a worthy location due to its excellent transport links, by sea, rail and road. While its port is not deep, it was certainly sufficient for managing the relatively small amounts of cargo coming from a single factory. It is of course along the main road between two of Munster's major cities, Cork and Waterford, and readers might recall that modern greenway between Dungarvan and Waterford was then a functional trainline, which also ran inland towards Mallow via Lismore, along the Blackwater Valley, or Irish Rhine, as the beautiful area is known. While such geographical advantages are a huge boon, there were also important social needs to be met on both sides.
+
+**Slums and needs.**
+
+An important consideration from a governmental point of view was that the towns getting a factory had sufficient need for employment and improved living conditions. No one understood the horror of the Dungarvan people's lives better than the local Medical Officer of Health and Schools, Dr Michael Casey. Since his appointment, he had spent much of his time in the job inspecting the conditions in which many locals lived and reporting it up to the powers that be in order to convince them of the need to provide housing in the town. A verbatim report will describe the horrific conditions, where, he notes, 138 people lived in the remnants of 29 houses.
+
+"The houses in this area are one room houses divided by a partition into a bedroom and kitchen with in many cases a loft overhead the bedroom which leaves the height of the bedroom insufficient. There is no sewerage system of any kind... Some of the houses act as stables. A good many of them have fallen down and others are about to collapse... Windows are broken and stuffed with rags or bits of cardboard."[^shareholders_info-1] This is not one isolated street and he provides many reports. In another case, he notes that "all fluid slops flow down the laneway in front of the houses", and "the occupiers of these houses are frequently ill". It will not be a surprise that people living in such conditions did not all have reliable, well-paid jobs, and factory would help raise hundreds of people out of poverty, directly, and thousands more indirectly, thanks to the cash coming into the town.
+
+[^shareholders_info-1]: Dungarvan Observer 1932 May
+
+**Votes**
+
+Despite their living conditions, Free State Ireland was a democracy and the impoverished people living in these conditions had a vote apiece which counted as much as the next man's. With 5000 people in the town, and a lot more in the surrounding areas, that meant a lot of votes for Fianna Fail, and an opportunity for them to consolidate their ties to the area. West Waterford had been an IRA stronghold with a very s**trong anti-Treaty bas**e. that FF could build upon. There were two Fianna Fail Cumann in the area too **EXPLAIN MORE**
+
+## Why Leather? 
+
+There remained the problem of matching
+
+An announcement was made in August that
+
+**Choice of Dickens**
+
+-   men only a boon
+
+### Jobs and production
+
+By August, 1935, the factory had been announced, declared that the it would start production before the end of the year. It would be the first of its kind in the state, fabricating the linings for leather boots and shoe, along with semi-chrome light leather, a **new dying agent which Dickens Leather in Northampton had once pioneered.** The Tannery would also produce leather for packing, for fancy goods, bookbinding, and for sandals and similar forms of footwear.
+
+The tannery would provide year-round employment for 100 men. **PRIORITISATION FOR MARRIED?** We must remember that the agricultural economy in Ireland only provided seasonal work for labourers so it would have been a huge relief that the work would be so regular, at least for those who didn't have to actually do the work. Working to a clock, day in, day out, would be a huge shock to many men, **as we shall later see**.
+
+### Public Company
+
+A public company would be formed and, on October 12, 1935, at a meeting in the Town Hall, Reginald Dickens himself came to assure the people of the great profits that awaited them. This was part of the drive to sell shares. Dickens estimated turnover at £60,000 during the first year and £86,000 during the second. He estimated that with a nett profit of just 1.5% on the first year's turnover, it would be sufficient to pay dividends nearly three times over for those who buy preference shares (see below). For those buying ordinary shares, they could expect a 10% return on investment.
+
+By 28 October, shares were being advertised as far away as the London Evening News, and in the end, t**he shares were massively oversubscribed**. EXPAND. **TAx free?**
+
+## Shareholders
+
+![*The treemap displays the number of shares for each shareholder. Reginald Dickens owned half of the 6000 shares, while directors had at least 500. Austie Casey had 1000.*](images/shareholders_treemap_1.png){alt="The treemap displays the number of shares for each shareholder. Reginald Dickens owned half of the 6000 shares, while directors had at least 500. Austie Casey had 1000."}
+
+Shares for Dickens Leather, like a very large number of newly-established companies at the time, were divided into two very different groups, Ordinary and Preferential Shares. Ordinary shares came with voting rights and were aimed at wealthy people. Preference shares provided a way to raise capital, usually from the local community, but without giving up control of the factory. Preference shares are much more interesting from a sociological point of view for what they tell us about Ireland in the 1930s.
+
+But let's look first at the distribution of the more familiar Ordinary Shares which, despite their name, were not aimed at ordinary people. They were usually held by founders, industrialists, or political backers, including the wealthier businessmen and sometimes the state itself. The shares came with voting rights, and thus they controlled the board and made stategic decisions. However, they were much more high risk. There was a high potential upside if they factory succeeded, but losses would be solely theirs if it tanked.
+
+Dickens Leather deviates only slightly from this formula, specifically in the role played by local doctor, Austie Casey. The key thing to understand is that the fledgling Free State did not yet have a closed political elite. Power and position were still up for grabs and this left the door open for the wilier members of the well-paid professions, including doctors, accountants and lawyers. Austie Casey was not an anomaly. He was among a number of similar men around the country who got in while they could.
+
+**Ordinary shareholders**
+
+The anchor investor was Reginald Dickens himself who bought half of the ordinary shares the ones that came with voting privileges. In accordance with the control of manufacturing act, foreign investors – usually from Britain – could not own more than 50% of the voting shares. The next two biggest investors, with 1000 each, were Austie Casey himself and Kennedy O'Brien who had already established the tannery in Portlaw. These three were joined on the board of directors by another local businessman who bought 500 shares, Joe Molony, managing director of A. Molony and Sons, which, as a business, bought another 120 shares. It was vital that the factory was seen to be sufficiently Irish and in the newspaper reports we see mention of the 'Irish directors', Dr Casey and Mr Molony.
+
+We can tell from the numbers associated with the shares that the shares were pre-allocated for three of the directors. Dickens had numbers 1-6000 of the 12,000 total. Austie Casey had the final thousand (11001-12000) and Kennedy O'Brien the previous lot (10001-11000). Notably, shares mustn't have been pre-allocated for Joe Molony (7814-8313), but it is worth noting that his half-lot of 500 shares was fortified by another 120 shares bought by his father's business, A Molony and Sons, (7694-7813).
+
+After that the ordinary shareholders included a mix of sundry investors from around the country and a much larger number of small local investors. We see investors from Sligo (380 shares), Cork, (264, 125) Kerry, (160) Leitrim (140), Tipperary (130), Wicklow (100), and another twenty odd Dungarvan individuals who bought between 20 and 100 shares. These include 75 shares for a young Pierce Casey (himself a shopkeeper), local TD Sean Goulding, and local priests Thomas O'Brien (60) and Thomas Walsh (20). These were the occupations that would recur amongst Ordinary Share holders throughout the country, although Dickens Leather could boast the unlikely profession of a female typist who bought 20 shares.
+
+An interesting development was that Austie Casey and Kennedy O'Brien both offloaded shares soon after the factory opened. O'Brien sold half of his allocation to Dublin-based Max Davis whose occupation is listed as a Company Director. This happened before the ledger book was even created. No doubt Davis had his finger in many company pies. It is not clear exactly why this was done but it seems possible that Davis had lent O'Brien the money to help him meet the necessary target to get on the first company board. Oddly, O'Brien also sold three ordinary shares to three of audit clerks based in Dublin.
+
+Austie Casey's early sale seems a little more straightforward as he sold 123 shares to his brother Dick before Christmas of 1935. It seems very plausible that this was the return of a loan, especially as Dick would continue to buy shares, a few at a time, for the next two decades, and slowly became one of the company's largest shareholders. It is also notable that, with O'Brien having split his shares with Davis, Austie Casey was now the single largest shareholder after Dickens.
+
+------------------------------------------------------------------------
+
+### Preferential shares 
+
+Preference shares, to give them their colloquial name, were aimed at normal punters, middle-class people looking to support their community and get some quick wins. They did not carry voting rights. They were essentially crowd-funded capital, to use the modern parlance, and they did not come with voting rights. Preferential shares were given preference over ordinary shares when dividends were being paid. Shareholders would be given a fixed dividend (perhaps 5-6%) and they were redeemable after a set period. They had priority in the event of liquidation. They were designed to look safe and respectable, almost like a savings product, while still counting as capital for the new company. In the 1930s, this structure was extremely attractive because banks were conservative and rarely lent to new industries and government grants were limited before the 1940s. P**ortlaw had managed to get a grant from the Industrial Development Capital, but Dungarvan didn't.**
+
+**Compare Portlaw share structure**
+
+-   Vincent Crowley, KOB etc.
+
+-   The State etc
+
+There was not a rigid split between those who bought Ordinary and Preferential shares. The interesting group here are those who bought smallish numbers of Ordinary shares, people who were shrewd but not rich. Among their number was shopkeeper Pierce Casey, who bough 75 Ordinary Shares and, over time, worked his way onto the board.
+
+------------------------------------------------------------------------
+
+**Austie's Money**
+
+We are still left with the question of how Austie got his money. The family lore is that he collected money from all the people he knew in the town. It seems that he would have then pooled their resources to create his own pot. He would then have given the people back their profits but gained a huge deal of power in the factory. Given the two-fold nature of the shares, it seems at first glance that the story has been conflated. Along with his own investment in Ordinary Shares, Austie would have roused locals and encouraged them into buying Preferential shares. Hence the idea of him going round and collecting money off normal punters.
+
+He would himself have had a substantial pot of his own savings, itself topped up with that loan from his big brother. Austie had been medical officer in Dungarvan for two years now, as well as a practicing family doctor for almost a decade, between Cappoquin and Dungarvan. The salary of an MOH was **reported as £500** and it came with a residence, namely Mountain View. Austie would have had various other bits of medical income and, if he managed to live off these, and save the salary for two years, minus the cost of the help he had, then we would have been able to save up the £875 needed for his shares. Very few people in the town had that kind of money so there wouldn't have been huge competition to buy his allocation.
+
+There is a third possibility however. As a doctor, Austie would have known every rung of society and also had a great deal of trust among them. He might well have encouraged the middle-class to jump on the bandwagon and formally invest their savings in preference shares, in sums of between £5 and £20 or perhaps £50. For the poorer people, they could still have chipped in with their individual pound notes, as the story goes. For such tiny quantities of money, and for people unaccustomed to any sort of financial investments, the bureaucratic overhead would surely have been too much. Giving Austie a pound each would have allowed them to be a part of the cause at a level that suited them.
+
+------------------------------------------------------------------------
