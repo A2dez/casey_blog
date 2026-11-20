@@ -10,6 +10,7 @@
 # Quarto output directories
 _site/
 docs/
+_book/
 
 # Quarto cache (optional but recommended)
 .qmd-cache/
