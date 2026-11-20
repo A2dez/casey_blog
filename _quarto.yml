@@ -21,7 +21,7 @@ project:
   type: book
 
 book:
-  title: "What the Dickens"
+  title: "The busiest man in town"
   author: "Des Ryan"
   chapters:
     - index.qmd
