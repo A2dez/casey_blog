@@ -4,10 +4,16 @@ title: "How did Austie Casey get the money to pay for a factory"
 
 **Chapter Structure**
 
+“the ruddy-faced gombeenism of rural political patronage was foreign to Lemass \[, who was\] a slick city type”
+
 1.  Local Crisis and idea
 2.  **Dungarvan Industrial Development Association**,
+    1.  Many committees proved successful at
+        raising finance; those in Nenagh and Kilkenny identified a prospective investor. However, the majority did little more than collect
+        money and lobby ministers and officials.
 3.  Drafting Company structure
     1.  power grab
+        1.  Daly, Crowley etc <https://app.notion.com/p/2025-12-17-Wednesday-2cc4cfb3616480c2ad59c0a96321f5bf#2cc4cfb3616480d28aefc7f700f6b252>
     2.  Brits In
 4.  Public launch and subscription drive
 5.  Shareholders: Collection and allocation of capital
@@ -19,6 +25,140 @@ title: "How did Austie Casey get the money to pay for a factory"
 8.  Ongoing returns and risks
 
 -   Check UDC notes for more if possible
+
+*"very few people realise the strenuous work that Austie Casey put into the starting of the two factories".*
+
+It is quite remarkable just how complex an operation it was to establish a factory in a town such as Dungarvan, and it will take quite some explication of the many inputs that went into it, between the people and the politics, the money and the materials. Working backwards will make it easier to understand the issues as they become increasingly less obvious as we go up the chain and back in time.
+
+Most importantly, there had to be people in the town to do the work, and an important argument in favour of having a factory in Dungarvan was the poverty and unemployment endemic in the then struggling town. However, there was much skilled work required and thus much training had be provided to the workers. Running in parallel to this need was the Fianna Fail government's desire to get re-elected from the votes of the workers, their families and the wider community.
+
+The factory needed buildings and a site had to be located. It was not strictly necessary to have a purpose-built operation, even if this would cause difficulties down the line. The factory also needed animal hides which, in the early 1930s, were in remarkably low supply in Ireland because her livestock was mostly exported to Britain, 'on the hoof', meaning that there was no available inputs to the tanning industry.
+
+Next, the factory needed to be financed, and money had to be raised from shareholders, and it had to be managed, a job for directors. This is where we hit our first political curiosity of the time. There did not exist enough industrial knowhow in the leather industry in Ireland to find enough directors to run the business. And there was a need to have local people on the board in order to liase between the workers and the external capitalists. Ireland's leather industry had all but vanished by the early 1920s so there was a severe lack of bona fide leather men to run the business. Many of them had to be found abroad in England which was the worldwide centre of the leather industry, and choosing them was another job in its own right.
+
+Of course somebody had to mediate between these imported industrialists and the 'ruddy faced gombeen men' of rural Ireland. This is where the Dublin-based professional class come into the picture. Accountants. Lawyers. Experienced board members who know how businesses run, even if they know nothing about leather. And finally, the men at the top, the Fianna Fail government whose idea it was to stimulate production by massively increasing the tariffs on imported leather.
+
+Finally, nothing above suggests that Dungarvan in particular ought to have been chosen for a tannery and thus we must understand the need for a local agitation group, the Dungarvan Industrial Development Committee, chaired by Fr Tommy Walsh and giving a platform for the likes of Austie Casey to agitate for jobs to be brought to the town.
+
+**Sections**
+
+-   The fall of leather industry in Ireland
+
+-   Early attempts at reindustrialisation (1922-32)
+
+-   choosing Dickens
+
+-   Dungarvan
+
+    -   iNdustrial development
+
+    -   securing buildings?
+
+    -   poverty and unemployment - Austie Casey MOH
+
+    -   Education
+
+### **A history of the leather industry in Ireland.**
+
+**Why were there no factories producing soft upper leathers?**
+
+How did it come to that?
+
+**1830s Peak**
+
+The emergence of a leather industry in 1930s Ireland was akin to a resurrection from a long and painful death. The previous hundred years had seen a steady decline of a once-flourishing native industry. The peak was in the 1820s and '30s around the time that livestock began to be exported en masse to Britain, thanks to improvements in sea communications, and thus there were fewer and fewer hides available for tanning. In 1837 there were 46 tanneries in the city of Cork alone, tanning over 2000 hides per week. and employing 625 people, which is more people than were employed across the twenty-six counties at the height of the resurrection in the 1950s. T**o grasp the proliferation of the industry in comparison, it may be instructive to compare it to sports clubs in the modern day. Currently, there are 225 GAA clubs in the county of Cork alone, and over 1600 hundred on the island, whereas there are just 109 rugby clubs on the island, many of them clustered in a few hubs. And just as almost every parish nowadays has its own GAA club, every town and village in pre-famine Ireland would have had a tanyard, alongside at least one person making shoes and another repairing them.**
+
+**Decline**
+
+By 1852, after The Great Hunger had destroyed the nation, there were still 26 tanneries in Cork City, although few of them were operating full-time as demand for leather had understandably dropped and credit was scarce so the businesses couldn't get back on their feet. By 1902, there were just three tanneries in Cork and just 18 across the entire island of Ireland. In 1923, **when a Free State report was commissioned,** there were just five. The only large-scale operation was Callaghans in Limerick City, tanning 200 hides per week, and small operations in Thomastown, Clonmel, Ballitore and New Ross, tanning just 100 hiders per week between them. Ballitore, a tiny village in County Kildare, specialised in leather harnesses for horses. In total, these tanneries were supplying just one twentieth of the state's demand for leather, so the other 95% had to be imported. Even so, New Ross would close down the following year.
+
+The reasons for the decline of the leather industry thus provide us with something of a microcosm of the problems that Ireland faced during the tragic century between the 1820s and 1920s. A tannery needs two things more than anything else: animal skins and dyes for tanning, and both of these were being purged from the country. Livestock were shipped to Britain in ever-increasing numbers and with them vanished the jobs associated with processing the animals, such as butchering the flesh and tanning the skins. Meanwhile, dyes taken from oak bark were becoming harder to source due to deforestation, although by our time of interest, different dyes were being used.
+
+A completely different, and preventable problem, was in how duties were levied on tanners. In England, tanners paid duty on every hide processed whereas in Ireland they paid duty on the pits used for processing them, so too many hides would be processed in the one pit, resulting in lower quality leather being made throughout Ireland, and thus greater demand for leather imported from across the water. Finally, there was little hope of any Irish tanneries exporting leather to Britain, seeing as Britain imposed a 60% tariff on Irish leather but there was only a 10% tariff in the opposite direction.
+
+**Shoots of growth**
+
+Between 1922 and 1932, there was no improvement in the leather industry, although there was a little growth in the footwear industry and these helped paved the way for native leather production which could then be used as a raw material for footwear. In 1924, small tariffs of 15% were introduced on footwear sales in Ireland, but British manufacturers were mostly efficient enough to outprice the emerging batch of Irish producers. However, UK-based businesses began to arrive in The Free State with Edward Donaghy bringing his entire business over the border to Dundalk and, in 1928, John Halliday of Leeds also set up a factory in Dundalk. Later, County Louth would become something of a hub for the Irish footwear industry. The same year, the Irish Tanners Foundation decided that they also wanted some support, so they lodged a case with the newly-formed Tariff Commission, but all they got was a little support in putting tariffs
+
+This of course changed with the arrival the Fianna Fail government in 1932
+
+## **Tariffs and factories**
+
+At the end of 1932, Fianna Fail introduced very large tariffs on all imported footwear. A full 30% duty was put on leather footwear and 20% on non-leather and children's footwear, a preferential rater than would soon be abolished, leaving a 30% tariff on all footwear.
+
+This immediately stimulated demand for footwear production in Ireland because the set up costs were relatively low for producing such light goods. Over the 1930s, no industry grew more than the footwear and leather industries, at least in terms of employment. In 1931, there were 1195 workers in the industry but by 1938 there were 6547 workers, an increase of 448%. By 1933, five new factories were producing shoes but of course the tanned leather still had to be imported, since there were scarcely any tanneries in the entire country. This was doubly inefficient, as much of leather would have come from cattle and sheep which had been reared in Ireland before being sent to Britain for slaughter, butchering and tanning.
+
+This would quickly change and by 1938, tanneries were established around the south-east of the country, in Portlaw, New Ross, Gorey, Dungarvan, and Carrick-on-Suir, and together they employed 1178 people, of the above-mentioned 6547, by far the largest number of people employed in the industry since the famine. At this point, homegrown production was exceeding imports for the first time.
+
+The choice of locations is particularly interesting because it tells us a lot about the priorities of the day, and they were seldom economic. In 1936, the Gorey Leather Company was set up by JH Woodington of Bristol. They already had a footwear factory in Drogheda which, along with nearby Dundalk, had become something of a hub for footwear production. While such a cluster would make good business sense, and might even lead to County Louth becoming and industrial hotspot like so many towns in Britain, it did nothing for Fianna Fail's need to match factories with voters. The tannery ended up being located in Gorey, Co Wexford, a town which is five miles from the sea, and a pipe had to be build in order to dispose of its noxious waste.
+
+Another tannery investor wanted to set up shop in Bray but he was politely informed that "the farther he decided to go from the city the greater the attraction would he lend to the proposal". (Daly 108). Mr H. Barlow, who ended up investing in the Portlaw tannery, originally wanted to base his operation in Drogheda, near several footwear factoriers. Instead it was suggested that he head for Tralee, Sligo, New Ross or Portlaw, with the latter taking the spoils. Of course the English had little interest in far-off towns like Sligo and Tralee as it did nothing for access of distribution. It can easily be forgotten that the West of Ireland, which forms something of an equidistant semi-circle around Dublin, provides zero access to England, or indeed anywhere else, whereas the Ancient East, namely the coast running from Cork City to Rosslare and up to Dundalk, provides excellent access to England and Wales. In the end, both Portlaw and New Ross would get tanneries. Portlaw had the distinct advantage of resurrecting a disused Cotton factory which had been idle since the 1870s while New Ross had only recently closed its doors to one of the very last tanneries in the Free State. The memory of the old cotton mill had survived in Portlaw when a 90-something year old local man came looking for work in the new tannery, declaring that he had worked in the old factory and should be given work in the new one. T**he common denominator here was Kennedy O'Brien, who may well have been close friends in Dublin with Sean Lemass.** Lemass was a keen golfer by day and a poker player by night, an activity he seemingly picked up during his time in prison in The Curragh where, unlike other inmates, he never received a penny in the post, making poker his only source of income. Once he became a government minister he was known to create opportunities for businessmen on the rise, especially in industries which required minimal amounts of capital such as clothing and footwear.
+
+,
+
+**Brits In**
+
+-   *Tariff jumping had become common practice aroudn the world and was one reason behind the decision of Henry Ford to locate his factory in nearby Cork City (Daly 246)*
+
+-   *this was a problem for native industries as the more experienced and more rationalized tariff jumping companies could undercut on prices and even pay higher wages than local companies could affod*
+
+-   
+
+-   *Some companies were afraid of tariff-jumpers yet representatives of the boot and shoe industries said they would welcome Foreign influence*
+
+-   
+
+However, the 'sudden upswing in demand' for leather shoes could not be met in full by the Irish Free State due to the lack of available capital and people who knew how to tan leather. The money and know-how thus had to be imported, ironically, from Britain.
+
+-   This situation had been identified by Lemass's counterpart in Britain, James H Thomas, who noted that exactly the above. Ireland lacked three things.Capital, economies of scale, and technical expertise. Many industries had either (e.g. tanning) or never existed (e.g. car manufacturing) so there was a massive lack of managerial know-how.
+
+This situation suited them too as many of their companies were losing sales because of the tariffs in Ireland so they had plenty of motivation to set up shop in the so-called Free State.
+
+-    Dickens was not just an investor. He oversaw the chemical nature of the business having spend his entire life in tanning leather and also having a brother a distinguished chemist, the only one of the Dickens not to dedicate his life to leather.
+
+<!-- -->
+
+-   The curious irony, notes Jon Press, was "the extent of British involvement in the development of the Irish footwear industry" which "seems somewhat surprising in view of Fianna Fail's emphasis on production and self-sufficiency".
+
+-   *The workaround, which would be written into the Control of Manufactuers Acts of 1932-34, would be to allow foreign capital into Irish industry as long as "it does not mean foreign control", as Minister for Industry, Sean Lemass would insist. Manufacturing licences would be needed and limits would be set on the degree of control in the hands of the foreign, mostly British, capitalists.*
+
+-   This resulted in quite a degree of tension as the experienced factory men from across the water were not willing to cede control of their enterprises, even though they were more than happy for the indigenous people to fund it.
+
+-   Loopholes
+
+Precedents had already been set because smaller tariffs had been introduced in the 1920s and this stimulated a small amount of industry. For example, in 1928, John Halliday and Son, from Leeds, registered in Ireland as a private limited company with an issued capital of £14,000. Another was Padmore and Barnes from Northampton, who raised £4,000 from fifty or sixty local subscribers in Kilkenny.
+
+-   Overall, however, the government were slow to introduce tariffs during the 1920s as there was a general concern that local business would be undercut by tariff jumpers. These are companies who set up production facilties abroad in order to dodge import tariffs. It was feared that they would charge lower prices and even pay more for local labour, a double whammy that would be hard to compete with in a market as small as Ireland's.
+
+Among the tanneries established in the 1930s, we see various arrangements being made. Irish Tanners in Portlaw in 1934 were funded in large part by the **ICC**, and they set up a subsidiary operation in New Ross in 1935.
+
+-   A rare case of non-British, foreign capital occurred in Carrick-on-Suir in 1938, when a tannery was set up under the name Plunder and Pollak (Ireland), by the Hitschmanns, a Jewish family in Sudetenland whose business had been expropriated by the Nazis.
+
+-   no one was producing chrome uppers in 1932
+
+-   Upper leather had not previouisly been manufactured in Ireland.
+
+-   : 1934 Portlaw large sole leather tannery wi
+
+## **Dungarvan agitating**
+
+-   *Most Irish towns sought a new factory or
+    revival of an old industry, and local development committees mushroomed following the 1932 election.*
+
+-   
+
+    -   *those in Nenagh and Kilkenny identified a prospective investor. However, the majority did little more than collect
+        money and lobby ministers and officials.*
+
+-   UDC disucss it first before forming committee
+
+    -    *Committees collected
+        funds and, in theory, planned for industrial development.*
+
+        *These groups frequently evoked nationalism
+        and memories of an economic golden age to generate enthusiasm*
+
+    -   
 
 The Dungarvan Industrial Development Association was an initiative which led to the creation of Dickens Leather factory in the town and, later, to the Glue and Gelatine factory. Agitation for a factory had begun in 1932, with Austie Casey and Fr Walsh, the chairman, being lead activists. By late 1934, they were looking for appropriate sites in the town and by February 1935 they had managed to convince the government that Dungarvan was a worthy location due to its excellent transport links, by sea, rail and road. While its port is not deep, it was certainly sufficient for managing the relatively small amounts of cargo coming from a single factory. It is of course along the main road between two of Munster's major cities, Cork and Waterford, and readers might recall that modern greenway between Dungarvan and Waterford was then a functional trainline, which also ran inland towards Mallow via Lismore, along the Blackwater Valley, or Irish Rhine, as the beautiful area is known. While such geographical advantages are a huge boon, there were also important social needs to be met on both sides.
 
@@ -42,11 +182,15 @@ An announcement was made in August that
 
 **Choice of Dickens**
 
--   men only a boon
+-   Two tanneries were shortlisted and a government official was sent over to negotiate with them both an subsidiary business in Ireland. In the report afterwards, it was enthusiastically reported that Dickens Leather was devoid of female staff and that even the typing was done by men. Whether this was a hangover from Dickens Senior's non-Conformist origins is not known, but the practice was well-received by Catholic Ireland and may well have led to Dickens being chosen over the other candidate.
+
+-   Locations chosen
+
+-   
 
 ### Jobs and production
 
-By August, 1935, the factory had been announced, declared that the it would start production before the end of the year. It would be the first of its kind in the state, fabricating the linings for leather boots and shoe, along with semi-chrome light leather, a **new dying agent which Dickens Leather in Northampton had once pioneered.** The Tannery would also produce leather for packing, for fancy goods, bookbinding, and for sandals and similar forms of footwear.
+By August, 1935, the factory had been announced, declared that the it would start production before the end of the year. It would be the first of its kind in the state, as new factories couldn't be licensed to manufacture anything that was already in use. They would fabricate the linings for leather boots and shoe, along with semi-chrome light leather, a **new dying agent which Dickens Leather in Northampton had once pioneered.** The Tannery would also produce leather for packing, for fancy goods, bookbinding, and for sandals and similar forms of footwear.
 
 The tannery would provide year-round employment for 100 men. **PRIORITISATION FOR MARRIED?** We must remember that the agricultural economy in Ireland only provided seasonal work for labourers so it would have been a huge relief that the work would be so regular, at least for those who didn't have to actually do the work. Working to a clock, day in, day out, would be a huge shock to many men, **as we shall later see**.
 
@@ -66,15 +210,29 @@ But let's look first at the distribution of the more familiar Ordinary Shares wh
 
 Dickens Leather deviates only slightly from this formula, specifically in the role played by local doctor, Austie Casey. The key thing to understand is that the fledgling Free State did not yet have a closed political elite. Power and position were still up for grabs and this left the door open for the wilier members of the well-paid professions, including doctors, accountants and lawyers. Austie Casey was not an anomaly. He was among a number of similar men around the country who got in while they could.
 
+-    *Irish business and
+    investors to share in the fruits of industrial development as directors
+    and chief executives.*
+
 **Ordinary shareholders**
 
-The anchor investor was Reginald Dickens himself who bought half of the ordinary shares the ones that came with voting privileges. In accordance with the control of manufacturing act, foreign investors – usually from Britain – could not own more than 50% of the voting shares. The next two biggest investors, with 1000 each, were Austie Casey himself and Kennedy O'Brien who had already established the tannery in Portlaw. It was vital that the factory was seen to be sufficiently Irish and in the newspaper reports we see mention of the 'Irish directors', Dr Casey and Mr Molony. Joe Moloney was the managing director of the long established local business, A. Moloney and Sons. Joe bought 500 of his own shares while the business bought 120 of its own, adding perhaps a degree of fortification to Molony's smaller claim as a director. Moloney's did an enormous range of products, similar to Woodies' DIY nowadays, only broader again. They were located on Bridge St in the centre of Dungarvan, **where the quays meet the main streets.** They advertised themselves as agricultural engineers, purporting to be 'the leading house in the south of Ireland for agricultural implements and dairy machinery'. On top of that, they also sold hardware, builder's goods, furniture, beds and even china, delph and fancy goods. And of course, bottles of gas and a wide stock of wallpaper.
+The anchor investor was Reginald Dickens himself who bought half of the ordinary shares, the ones that came with voting privileges. In accordance with the control of manufacturing act, foreign investors – usually from Britain – could not own more than 50% of the voting shares. The next two biggest investors, with 1000 each, were Austie Casey himself and Kennedy O'Brien who had already established the tannery in Portlaw. It was vital that the factory was seen to be sufficiently Irish and in the newspaper reports we see mention of the 'Irish directors', Dr Casey and Mr Molony. Joe Moloney was the managing director of the long established local business, A. Moloney and Sons. Joe bought 500 of his own shares while the business bought 120 of its own, adding perhaps a degree of fortification to Molony's smaller claim as a director. Moloney's did an enormous range of products, similar to Woodies' DIY nowadays, only broader again. They were located on Bridge St in the centre of Dungarvan, **where the quays meet the main streets.** They advertised themselves as agricultural engineers, purporting to be 'the leading house in the south of Ireland for agricultural implements and dairy machinery'. On top of that, they also sold hardware, builder's goods, furniture, beds and even china, delph and fancy goods. And of course, bottles of gas and a wide stock of wallpaper.
 
-We can tell from the numbers associated with the shares that the shares were pre-allocated for three of the directors. Dickens had numbers 1-6000 of the 12,000 total. Austie Casey had the final thousand (11001-12000) and Kennedy O'Brien the previous lot (10001-11000). Notably, shares mustn't have been pre-allocated for Joe Molony (7814-8313), preceded by A. Molony and Sons, (7694-7813). The business name did not retain the gender of its founder Abigail Moloney.
+We can tell from the numbers associated with the shares that the shares were pre-allocated for three of the directors. Dickens had numbers 1-6000 of the 12,000 total. Austie Casey had the final thousand (11001-12000) and Kennedy O'Brien the previous lot (10001-11000). Notably, shares mustn't have been pre-allocated for Joe Molony (7814-8313), preceded by A. Molony and Sons, (7694-7813). **The business name did not retain the gender of its founder Abigail Moloney.** They did have a phone, however, and could be reached, via the operator, with the number '14'.
 
-After that the ordinary shareholders included a mix of sundry investors from around the country and a much larger number of small local investors. We see investors from Sligo (380 shares), Cork, (264, 125) Kerry, (160) Leitrim (140), Tipperary (130), Wicklow (100), and another twenty odd Dungarvan individuals who bought between 20 and 100 shares. These include 75 shares for a young Pierce Casey (himself a shopkeeper), local TD Sean Goulding, and local priests Thomas O'Brien (60) and Thomas Walsh (20). These were the occupations that would recur amongst Ordinary Share holders throughout the country, although Dickens Leather could boast the unlikely profession of a female typist who bought 20 shares.
+-   
 
-An interesting development was that Austie Casey and Kennedy O'Brien both offloaded shares soon after the factory opened. O'Brien sold half of his allocation to Dublin-based Max Davis whose occupation is listed as a Company Director. This happened before the ledger book was even created. No doubt Davis had his finger in many company pies. It is not clear exactly why this was done but it seems possible that Davis had lent O'Brien the money to help him meet the necessary target to get on the first company board. Oddly, O'Brien also sold three ordinary shares to three of audit clerks based in Dublin.
+    -   (Daly 141)
+
+    -   
+
+    -   Local capital reduced start-up costs and anchored outside business more firmly in the community.
+
+    -   
+
+After that the ordinary shareholders included a mix of sundry investors from around the country and a much larger number of small local investors. We see investors from Sligo (380 shares), Cork, (264, 125) Kerry, (160) Leitrim (140), Tipperary (130), Wicklow (100), and another twenty odd Dungarvan individuals who bought between 20 and 100 shares. These include 75 shares for a young Pierce Casey (himself a shopkeeper), local TD Sean Goulding, and local priests Thomas O'Brien (60) and Thomas Walsh (20). These were the occupations that would recur amongst Ordinary Share holders throughout the country, although Dickens Leather could boast the unlikely profession of a female typist who bought 20 shares. It was the local development committe which could mobilize these small savings and encourage so many small first-time investors. Daly notes something very similar occurring for the mill in Portlaoise where shareholders included "doctors, widows, accountants, teachers, shopkeepers, shop assistants, nurses, and ESB driver, engine drivers and railway porters, priests, and retired police officers." Raising such local capital anchored the business firmly within the community and made foreign franchises feel local. As for Dickens and other foreign investors, they were relieved of the need to raise as much capital as they normally would have to.
+
+Once Dickens Leather had begun production, an interesting development among shareholders was that Austie Casey and Kennedy O'Brien both offloaded shares soon after the factory opened. O'Brien sold half of his allocation to Dublin-based Max Davis whose occupation is listed as a Company Director. This happened before the ledger book was even created. No doubt Davis had his finger in many company pies. It is not clear exactly why this was done but it seems possible that Davis had lent O'Brien the money to help him meet the necessary target to get on the first company board. Oddly, O'Brien also sold three ordinary shares to three of audit clerks based in Dublin.
 
 Austie Casey's early sale seems a little more straightforward as he sold 123 shares to his brother Dick before Christmas of 1935. It seems very plausible that this was the return of a loan, especially as Dick would continue to buy shares, a few at a time, for the next two decades, and slowly became one of the company's largest shareholders. It is also notable that, with O'Brien having split his shares with Davis, Austie Casey was now the single largest shareholder after Dickens.
 
