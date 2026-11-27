@@ -206,11 +206,11 @@ Vincent Crowley, who would soon become the auditor for Dickens Leather, was join
 
 -   Loopholesf
 
-ottents had already been set because smaller tariffs had been introduced in the early 1920s and this stimulated a small amount of industry.
+**ottents had already been set because smaller tariffs had been introduced in the early 1920s and this stimulated a small amount of industry.**
 
-ents being made. Irish Tanners in Portlaw in 1934 were funded in large part by the **ICC**, and they set up a subsidiary operation in New Ross in 1935.
+ents being made. Irish Tanners in Portlaw in 1934 were funded in large part by the ICC, and they set up a subsidiary operation in New Ross in 1935.
 
--   A rare case of non-British, foreign capital occurred in Carrick-on-Suir in 1938, when a tannery was set up under the name Plunder and Pollak (Ireland), by the Hitschmanns, a Jewish family in Sudetenland whose business had been expropriated by the Nazis.
+-   **A rare case of non-British, foreign capital occurred in Carrick-on-Suir in 1938, when a tannery was set up under the name Plunder and Pollak (Ireland), by the Hitschmanns, a Jewish family in Sudetenland whose business had been expropriated by the Nazis.**
 
 -   no one was producing chrome uppers in 1932
 
@@ -623,7 +623,7 @@ Big Picture
 
 Kennedy, Crowley's industrial clients were mainly Irish subsidiaries of foreign concerns, and the Control of Manufactures Acts of 1932 and 1934 required new manufacturing companies to be 51 per cent Irish-owned, subjecting those not meeting this criterion to a restrictive and cumbersome licencing system. **Operating in tandem with Cox, Crowley helped his clients to evade these legislative entanglements. Aware that it needed foreign investment and technical expertise for its industrialisation drive, the government tacitly encouraged their activities, making only token efforts to close off loopholes in the l**aw. Indeed, the duo cooperated closely with [Jim Beddy](https://www.dib.ie/biography/beddy-james-patrick-a0536) (qv), chief executive of the Industrial Credit Corporation, a state body that served as either a lender or underwriter to their clients.
 
-Speaking in the dáil, Lemass denounced foreign companies and their local advisors for violating the spirit of the legislation, but as a regular attendee at dinner parties in Crowley's house, he praised the work performed by his host. By rescuing the Fianna Fáil administration from its own election rhetoric and from the contradictions between its stated goals of industrialisation and self-sufficiency, **Crowley and Cox saw themselves as engaging in practical nationalism.** Relations with government officials were not entirely harmonious and Crowley pressed his clients' case vigorously when seeking to blunt the effect of politically motivated directives, particularly in relation to locating new industries in remote rural areas. In the main, compromises were worked out fairly amicably by Crowley and Cox with various civil servants.
+Speaking in the dáil, Lemass denounced foreign companies and their local advisors for violating the spirit of the legislation, but as a regular attendee at dinner parties in Crowley's house, he praised the work performed by his host. By rescuing the Fianna Fáil administration from its own election rhetoric and from thecontradictions between its stated goals of industrialisation and self-suff iciency, **Crowley and Cox saw themselves as engaging in practical nationalism.** Relations with government officials were not entirely harmonious and Crowley pressed his clients' case vigorously when seeking to blunt the effect of politically motivated directives, particularly in relation to locating new industries in remote rural areas. In the main, compromises were worked out fairly amicably by Crowley and Cox with various civil servants.
 
 ------------------------------------------------------------------------
 
@@ -635,7 +635,9 @@ Instruction classes were run by local vocational education committees.
 
 Temporary wage scales were set up for inexperienced operatives, trade union perimission was obtained to engage employees for two years at low rates.
 
-Thus we see something of a tension between the divergent economic policies of the respective governments, and the more organic tendency of companies and their vt length in goverme nt circles, and Lemass, by now the Minister for Industry and Commerce, said "we have not objection to foreign capital in Irish Industry if it does not mean foreign control'. (for more see Price p34-6)
+------------------------------------------------------------------------
+
+Thus we see something of a tension between the divergent economic policies of the respective governments, and the more organic tendency of companies and their vt length in goverme nt circles, and Lemass, by now the Minister for Industry and Commerce, said "**we have not objection to foreign capital in Irish Industry if it does not mean foreign control'. (for more** see Price p34-6)
 
 foreign nationals were not to be employed except technical experts and foreman for the starting up period
 
@@ -643,11 +645,11 @@ Irish Free State Tanners Federation
 
 Importas reduced post 1935
 
-from 59704 hundredweights of of undressed tanned hides for soles and insoldes to 14452 in 1939)
+**from 59704 hundredweights of of undressed tanned hides for soles and insoldes to 14452 in 1939)**
 
 was part of this affected by the war
 
-However, a new law (The Control of Manufacturers Acts 1932-4) introduced by Fianna Fail required that the new industries not have majority control from a foreign company. We shall see in the next chapter that Reginald Dickens owned exactly half of the shares in Dickens Leather, and no capital came from the state. Thus the Irish interest had to be filled by someone, and Austie Casey and Joe Moloney stepped up to the
+**However, a new law (The Control of Manufacturers Acts 1932-4) introduced by Fianna Fail required that the new industries not have majority control from a foreign company.** We shall see in the next chapter that Reginald Dickens owned exactly half of the shares in Dickens Leather, and no capital came from the state. Thus the Irish interest had to be filled by someone, and Austie Casey and Joe Moloney stepped up to the
 
 Economkic background notes
 
@@ -656,3 +658,19 @@ Economkic background notes
 -   
 
 -   
+
+*Most Irish towns sought a new factory or revival of an old industry, and local development committees mushroomed following the 1932 election.*
+
+-   
+
+    -   *those in Nenagh and Kilkenny identified a prospective investor. However, the majority did little more than collect money and lobby ministers and officials.*
+
+-   UDC disucss it first before forming committee
+
+    -   *Committees collected funds and, in theory, planned for industrial development.*
+
+    ```         
+    *These groups frequently evoked nationalism and memories of an economic golden age to generate enthusiasm*
+    ```
+
+    -   
