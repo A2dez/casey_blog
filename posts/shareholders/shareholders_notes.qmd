@@ -132,11 +132,33 @@ Inputs to establishing factory
 
 -   Check UDC notes for more if possible
 
+-   **Sections**
+
+    -   The fall of leather industry in Ireland
+
+    -   Early attempts at reindustrialisation (1922-32)
+
+    -   choosing Dickens
+
+    -   Dungarvan
+
+        -   iNdustrial development
+
+        -   securing buildings?
+
+        -   poverty and unemployment - Austie Casey MOH
+
+        -   Education
+
+-   **Why were there no factories producing soft upper leathers?**
+
+    How did it come to that?
+
 ## **Brits In**
 
--   *Tariff jumping had become common practice aroudn the world and was one reason behind the decision of Henry Ford to locate his factory in nearby Cork City (Daly 246)*
+-   ***Tariff jumping had become common practice aroudn the world and was one reason behind the decision of Henry Ford to locate his factory in nearby Cork City (Daly 246)***
 
--   *this was a problem for native industries as the more experienced and more rationalized tariff jumping companies could undercut on prices and even pay higher wages than local companies could affod*
+-   ***this was a problem for native industries as the more experienced and more rationalized tariff jumping companies could undercut on prices and even pay higher wages than local companies could affod***
 
 -   
 
@@ -146,13 +168,15 @@ Inputs to establishing factory
 
 However, the 'sudden upswing in demand' for leather shoes could not be met in full by the Irish Free State due to the lack of available capital and people who knew how to tan leather. The money and know-how thus had to be imported, ironically, from Britain.
 
--   This situation had been identified by Lemass's counterpart in Britain, James H Thomas, who noted that exactly the above. Ireland lacked three things.Capital, economies of scale, and technical expertise. Many industries had either (e.g. tanning) or never existed (e.g. car manufacturing) so there was a massive lack of managerial know-how.
+-   This situation had been identified by Lemass's counterpart in Britain, James H Thomas, who noted that exactly the above. Ireland lacked three things.Capital, economies of scale, and technical expertise. Many industries had either died out (e.g. tanning) or never existed (e.g. car manufacturing) so there was a massive lack of managerial know-how.
 
 -   
 
--    **For example, in 1928, John Halliday and Son, from Leed**s, registered in Ireland as a private limited company with an issued capital of £14,000.
+-   **For example, in 1928, John Halliday and Son, from Leed**s, registered in Ireland as a private limited company with an issued capital of £14,000.
 
-    Another was Padmore and Barnes from Northampton, who raised £4,000 from fifty or sixty local subscribers in Kilkenny.
+```         
+Another was Padmore and Barnes from Northampton, who raised £4,000 from fifty or sixty local subscribers in Kilkenny.
+```
 
 <!-- -->
 
@@ -168,9 +192,11 @@ This of course changed with the arrival the Fianna Fail government in 1932
 
 This situation suited them too as many of their companies were losing sales because of the tariffs in Ireland so they had plenty of motivation to set up shop in the so-called Free State.
 
--    Dickens was not just an investor. He oversaw the chemical nature of the business having spend his entire life in tanning leather and also having a brother a distinguished chemist, the only one of the Dickens not to dedicate his life to leather.
+-   Dickens was not just an investor. He oversaw the chemical nature of the business having spend his entire life in tanning leather and also having a brother a distinguished chemist, the only one of the Dickens not to dedicate his life to leather.
 
 <!-- -->
+
+Vincent Crowley, who would soon become the auditor for Dickens Leather, was joined in this endeavour by a lawyer named Arthur Cox, and the two of them became notorious for finding loopholes and workarounds in the 1932 Control of Manufacturers Act.
 
 -   The curious irony, notes Jon Press, was "the extent of British involvement in the development of the Irish footwear industry" which "seems somewhat surprising in view of Fianna Fail's emphasis on production and self-sufficiency".
 
@@ -198,7 +224,7 @@ Issue of Female employees DAly p125
 
 -   
 
-![image.png](attachment:d2443d52-7db6-4027-bd91-84ea99848877:image.png){alt="image.png"}
+![image.png](attachment:d2443d52-7db6-4027-bd91-84ea99848877:image.png)
 
 -   Dickens tanners ‘had no women employed and even the typing is done by male labour’
 
@@ -225,6 +251,10 @@ even the typing is done by male labour" (TID 43/63); this may have\
 led to Dickens's being favored over another firm.
 
 ------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+-Dickens Leather in Dungarvan, located where the Colligan River meets the sea, could take water from the river and dump it into the sea afterwards. The tannery in Gorey had to have a huge waste pipe built, running several miles to the sea, suggesting that politics played a greater role than geography in choosing the town.
 
 -   **Dungarvan Industrial Development Association**,
 
@@ -564,3 +594,65 @@ Big Picture
 -   **This resulted in quite a degree of tension as the experienced factory men from across the water were not willing to cede control of their enterprises, even though they were more than happy for the indigenous people to fund it.**
 
 -   Loopholes
+
+-   Vincent Crowley
+
+-   *Crowley audited the Knights of St Columbanus, a secretive and high-powered order of lay catholics, inaugurating its Irish Accountants Society in 1925*
+
+    *He was also alert to the opportunities his association with the Knights provided for worldly advancement.*
+
+    -   espite never qualifying as a chartered accountant, 
+
+        -   an unqualified succes
+
+        -   Kennedy, Crowley and Co.
+
+         1932, bought them out, he continued as principal of Kennedy, Crowley and Co., operating from 4/5 Westmoreland Street. 
+
+        -   Munster & Leinster Bank (Father from Ballymore, Co Cork)
+
+        -   
+
+        -   An excellent networker, he ingratiated himself with other professionals and businessmen, most propitiously with [Arthur Cox](https://www.dib.ie/biography/cox-arthur-conor-joseph-a2122) (qv), a renowned solicitor specialising in commercial law. 
+
+<!-- -->
+
+-   Crowely - Cox - connectted to ICC -
+
+-   *However, the protectionist corporate policies and implementing legislation of the new administration brought new opportunities. The legislation placed severe restrictions on foreign companies owning and operating enterprises in Ireland. Cox developed a reputation for assisting corporate clients to circumnavigate the restrictive laws. Along with his friend [James Beddy](https://www.dib.ie/biography/beddy-james-patrick-a0536) (qv), chief executive of the Industrial Credit Corporation, he realised that foreign investment was essential to the growth of the Irish economy. He introduced many clients to Beddy, and between them they found ways to assist the firms in investing in various enterprises without breaching the law. During this period he cemented his reputation as the foremost corporate lawyer in Ireland.*
+
+Kennedy, Crowley's industrial clients were mainly Irish subsidiaries of foreign concerns, and the Control of Manufactures Acts of 1932 and 1934 required new manufacturing companies to be 51 per cent Irish-owned, subjecting those not meeting this criterion to a restrictive and cumbersome licencing system. **Operating in tandem with Cox, Crowley helped his clients to evade these legislative entanglements. Aware that it needed foreign investment and technical expertise for its industrialisation drive, the government tacitly encouraged their activities, making only token efforts to close off loopholes in the l**aw. Indeed, the duo cooperated closely with [Jim Beddy](https://www.dib.ie/biography/beddy-james-patrick-a0536) (qv), chief executive of the Industrial Credit Corporation, a state body that served as either a lender or underwriter to their clients.
+
+Speaking in the dáil, Lemass denounced foreign companies and their local advisors for violating the spirit of the legislation, but as a regular attendee at dinner parties in Crowley's house, he praised the work performed by his host. By rescuing the Fianna Fáil administration from its own election rhetoric and from the contradictions between its stated goals of industrialisation and self-sufficiency, **Crowley and Cox saw themselves as engaging in practical nationalism.** Relations with government officials were not entirely harmonious and Crowley pressed his clients' case vigorously when seeking to blunt the effect of politically motivated directives, particularly in relation to locating new industries in remote rural areas. In the main, compromises were worked out fairly amicably by Crowley and Cox with various civil servants.
+
+------------------------------------------------------------------------
+
+Training staff
+
+Key workers from UK were brought in. In some cases employees were sent for training to English factories.
+
+Instruction classes were run by local vocational education committees.
+
+Temporary wage scales were set up for inexperienced operatives, trade union perimission was obtained to engage employees for two years at low rates.
+
+Thus we see something of a tension between the divergent economic policies of the respective governments, and the more organic tendency of companies and their vt length in goverme nt circles, and Lemass, by now the Minister for Industry and Commerce, said "we have not objection to foreign capital in Irish Industry if it does not mean foreign control'. (for more see Price p34-6)
+
+foreign nationals were not to be employed except technical experts and foreman for the starting up period
+
+Irish Free State Tanners Federation
+
+Importas reduced post 1935
+
+from 59704 hundredweights of of undressed tanned hides for soles and insoldes to 14452 in 1939)
+
+was part of this affected by the war
+
+However, a new law (The Control of Manufacturers Acts 1932-4) introduced by Fianna Fail required that the new industries not have majority control from a foreign company. We shall see in the next chapter that Reginald Dickens owned exactly half of the shares in Dickens Leather, and no capital came from the state. Thus the Irish interest had to be filled by someone, and Austie Casey and Joe Moloney stepped up to the
+
+Economkic background notes
+
+-   <https://app.notion.com/p/Economic-background-chapter-notes-2ae4cfb36164804f89e5f6de34cefac5?source=copy_link>
+
+-   
+
+-   
